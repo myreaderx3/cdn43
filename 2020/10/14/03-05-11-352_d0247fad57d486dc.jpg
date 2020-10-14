@@ -1,0 +1,2161 @@
+<!doctype html>
+<html lang="zh-hk">
+<head>
+<title>新浪香港 sina.com.hk</title>
+<meta name="keywords" content="新浪香港,新浪,新浪網,香港,sina,sina.com.hk,hong kong" />
+<meta name="description" content="新浪香港提供全面即時新聞資訊，包括新聞、財經、娛樂、體育、數碼、女性、消閒、生活等。" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="新浪香港 sina.com.hk" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="新浪香港提供全面即時新聞資訊，包括新聞、財經、娛樂、體育、數碼、女性、消閒、生活等。" />
+<meta property="og:site_name" content="香港新浪" />
+<meta property="og:url" content="https://sina.com.hk/" />
+<meta http-equiv="Content-Language" content="zh-hk" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />  
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta property="fb:pages" content="149811878415857" />
+<meta property="fb:pages" content="174455179305867" />
+<meta property="fb:pages" content="332291178365" />
+<meta property="fb:pages" content="250866964931954" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" href="https://rs3.sinahk.net/1y/layout/s/t1/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://rs3.sinahk.net/1y/layout/s/t1/apple-touch-icon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="https://rs3.sinahk.net/1y/layout/s/t1/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="https://rs3.sinahk.net/1y/layout/s/t1/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon-precomposed" href="https://rs3.sinahk.net/1y/layout/s/t1/apple-touch-icon-180x180.png" sizes="180x180" />
+<script type="text/javascript">
+var image_list = '';
+</script>
+<link href="/css/allinone/20200831/main.min.css" type="text/css" rel="StyleSheet"/>
+<!--[if lt IE 9]><link href="/css/ie8.css" type="text/css" rel="StyleSheet"/><script src="/js/html5.js"></script><script>var lt_IE_9 = true;</script><![endif]--><!--[if lt IE 10]><link href="/css/ie9.css" type="text/css" rel="StyleSheet"/><script>var lt_IE_10 = true;</script><![endif]-->
+<script src="/js/allinone/20200818/main.min.js"></script><script type="text/javascript" src="//cdn.innity.net/admanager.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1076076759231352');
+  fbq('track', 'PageView');
+
+  fbq('init', '2154567321461872');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1076076759231352&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+<script>fbq('track', 'ViewContent');</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_HK/sdk.js#xfbml=1&version=v2.3&appId=114907575364430";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/Javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/Javascript";
+		var useSSL = "https:" == document.location.protocol;
+		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+		var node =document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/16358449/HomePage_TopBanner_728x90', [728, 90], 'div-gpt-ad-1440575747039-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_Textlink_300x48', [300, 48], 'div-gpt-ad-1503543791215-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_BabyBanner_300x90', [300, 90], 'div-gpt-ad-1443068936805-4').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_LREC_300x250', [300, 250], 'div-gpt-ad-1440576041783-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_2nd-LREC_300x250', [300, 250], 'div-gpt-ad-1467792591445-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_LREC-Bottom_300x250', [300, 250], 'div-gpt-ad-1467862613196-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_middle_banner_728x90', [728, 90], 'div-gpt-ad-1467788379339-0').addService(googletag.pubads());
+    googletag.defineSlot('/16358449/HomePage_Bottom_banner_728x90', [728, 90], 'div-gpt-ad-1469506140078-16').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_middle-2nd_banner_728x90', [728, 90], 'div-gpt-ad-1472459355920-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/HomePage_LREC_Fin_300x250', [300, 250], 'div-gpt-ad-1522209069407-0').addService(googletag.pubads());
+	//googletag.defineSlot('/16358449/Homepage_Bottom_GiantLREC_300x600', [300, 600], 'div-gpt-ad-1453446837240-2').addService(googletag.pubads());
+	
+	googletag.defineSlot('/16358449/News_ROS_LREC_IdleAD_300x250', [300, 250], 'div-gpt-ad-1532505900651-0').addService(googletag.pubads());
+	googletag.defineSlot('/16358449/News_ROS_TopBanner_IdleAD_728x90', [728, 90], 'div-gpt-ad-1532505900651-1').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.pubads().collapseEmptyDivs();
+    //googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><a name="#TOP"></a><div id="page"><header>
+<div class="row">
+<nav class="category">
+<ul class="clearfix">
+<li class="sinalogo"><a href="/"><img alt="香港新浪" src="//rs3.sinahk.net/1y/layout/mhp/theme/1/141008/logo.png"/></a></li>
+<li class="cat1">
+
+<a  href="/news/">新聞<div class="select"></div></a>
+
+
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/news/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 焦點推薦</a></li>
+<li><a href="/news/realtime.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 即時新聞</a></li>
+<li><a href="/news/hk.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 港聞</a></li>
+<li><a href="/news/china.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 兩岸新聞</a></li>
+<li><a href="/news/international.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 國際新聞</a></li>
+<li><a href="/news/funny.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 趣聞</a></li>
+<li><a href="/news/album.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 圖集</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li class="custom">
+			<a class="block" href="/p/supplement/index/hongkong2020" target="_blank" style="background-image:url('//rs3.sinahk.net/1y/s/up/nav_force_hottest/0/000/000/057/p1.jpg?20200629183602')">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/layout/s/t1/transparent.png">
+								</div>
+				<div class="text">【專題】同心共建  美好香港</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/1/1/%E7%8E%A9%E5%92%81%E5%A4%A7-%E9%96%8B-Zoom-%E4%B8%8A%E5%A0%82-%E5%AD%B8%E7%94%9F%E8%A6%AA%E7%86%B1%E5%94%94%E7%86%84-cam-12278185.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/278/185/c.jpg?20201013131402">
+								</div>
+				<div class="text">【玩咁大】開 Zoom 上堂 學生親熱唔熄 cam</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/1/1/%E6%AD%90%E7%BE%8E%E8%BE%A3%E5%A6%B9-%E4%B8%80%E8%B5%B7%E5%81%A5%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%A5%B3-Sapir-Berko-12277890.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/277/890/c.jpg?20201013113102">
+								</div>
+				<div class="text">【歐美辣妹】一起健身！以色列美女「Sapir Berko」</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/1/1/%E5%A5%87%E8%81%9E-%E8%8B%B1%E5%A5%B3%E5%9B%9B%E5%B9%B4%E5%86%87%E4%BE%86%E7%B6%93-%E8%A8%BA%E6%96%B7%E5%BE%8C%E7%99%BC%E7%8F%BE%E6%9C%89%E5%85%A9%E5%80%8B%E5%AD%90%E5%AE%AE-12278468.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/278/468/c.jpg?20201013143701">
+								</div>
+				<div class="text">【奇聞】英女四年冇來經 診斷後發現有兩個子宮！</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+
+</li>
+<li class="cat10">
+<a target="_blank" href="https://www.youtube.com/c/Weibo%E5%BE%AE%E5%8D%9A">視頻<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a target="_blank" href="https://www.youtube.com/playlist?list=PLJmjyJAl2FaY7dECB3PrjUbl9fPSFi_iH"><i class="fa fa-angle-double-right"></i> 微博美食</a></li>
+<li><a target="_blank" href="https://www.youtube.com/playlist?list=PLJmjyJAl2FaYqBf8yJS9YWzzhVM65Iu-s"><i class="fa fa-angle-double-right"></i> 带着微博去旅行</a></li>
+<li><a target="_blank" href="https://www.youtube.com/playlist?list=PLJmjyJAl2FaagLc3AVdAmzMaSyuRBvX-X"><i class="fa fa-angle-double-right"></i> 微博Vlog</a></li>
+<li><a target="_blank" href="https://www.youtube.com/playlist?list=PLJmjyJAl2FaaBkfwsoYdaUYjt31vF5LkR"><i class="fa fa-angle-double-right"></i> 一直播</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="https://www.youtube.com/watch?v=OhKviDQSPx4" target="_blank" onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'OhKviDQSPx4'} );">
+				<div class="photo">
+												<img class="v" src="https://img.youtube.com/vi/OhKviDQSPx4/mqdefault.jpg">
+								</div>
+				<div class="text">一直播 : 李雲迪 YUNDI 2020.10.07</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="https://www.youtube.com/watch?v=az0cGOQz_0c" target="_blank" onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'az0cGOQz_0c'} );">
+				<div class="photo">
+												<img class="v" src="https://img.youtube.com/vi/az0cGOQz_0c/mqdefault.jpg">
+								</div>
+				<div class="text">帶著微博去旅行：看完記得去打卡係列</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="https://www.youtube.com/watch?v=iFYhPdILXf0" target="_blank" onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'iFYhPdILXf0'} );">
+				<div class="photo">
+												<img class="v" src="https://img.youtube.com/vi/iFYhPdILXf0/mqdefault.jpg">
+								</div>
+				<div class="text">微博美食：鮮奶手撕吐司</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="https://www.youtube.com/watch?v=XpDtglus7RY" target="_blank" onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'XpDtglus7RY'} );">
+				<div class="photo">
+												<img class="v" src="https://img.youtube.com/vi/XpDtglus7RY/mqdefault.jpg">
+								</div>
+				<div class="text">帶著微博去旅行：上海CASANOVA餐廳</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat2">
+<a  href="/finance/">財經<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/finance/today_focus.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 今日重點</a></li>
+<li><a href="/finance/realtime.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 即時新聞</a></li>
+<li><a href="/finance/singtao.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 星島財經</a></li>
+<li><a href="/finance/china_realtime.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 中國股市</a></li>
+<li><a href="/finance/us_realtime.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 美國股市</a></li>
+<li><a href="/finance/international_realtime.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 國際股市</a></li>
+<li><a href="/finance/property.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 地產新聞</a></li>
+<li><a href="/finance/mediaoutreach.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Media Outreach</a></li>
+<li><a href="/finance/capital.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 資本財經</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="/news/article/20201013/0/2/4/%E4%B8%BB%E6%89%93%E5%B1%AF%E9%96%80%E4%B8%89%E7%9B%A4-%E4%BF%9D%E7%95%99%E9%83%A8%E5%88%86%E7%8F%BE%E6%A8%93%E6%8E%A8-12276506.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/276/506/c.jpg?20201013060027">
+								</div>
+				<div class="text">主打屯門三盤 保留部分現樓推</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/2/4/%E5%A4%A9%E5%B7%921820%E8%90%AC%E6%B2%BD%E8%B2%B6%E5%80%BC17-12276511.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/276/511/c.jpg?20201013060505">
+								</div>
+				<div class="text">天巒1820萬沽貶值17%</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/2/4/%E6%A0%A2%E5%82%B2%E8%8E%8A%E8%BF%85%E6%94%B6%E9%80%BE%E8%90%AC%E7%A5%A8-12276507.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/276/507/c.jpg?20201013060505">
+								</div>
+				<div class="text">栢傲莊迅收逾萬票</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/2/4/%E8%94%9A%E8%97%8D%E6%9D%B1%E5%B2%B8%E6%9C%88%E5%85%A7%E6%87%89%E5%B8%82-12276508.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/276/508/c.jpg?20201013060504">
+								</div>
+				<div class="text">蔚藍東岸月內應市</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat3">
+<a  href="/entertainment/">娛樂<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/entertainment/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 焦點娛聞</a></li>
+<li><a href="/entertainment/news.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 娛樂新聞</a></li>
+<li><a href="/entertainment/kpop.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 韓星追蹤</a></li>
+<li><a href="/entertainment/world.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 外娛新聞</a></li>
+<li><a href="/entertainment/interview/?cf=s-snav"><i class="fa fa-angle-double-right"></i> 專訪</a></li>
+<li><a href="/entertainment/movie/current.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 現正上映電影</a></li>
+<li><a href="/entertainment/movie/coming.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 即將上映電影</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="/news/article/20201014/0/3/53/Staycation%E6%B4%A9%E8%9C%9C-%E6%9C%B1%E5%87%8C%E5%87%8C-%E5%90%B3%E5%81%89%E8%B1%AA%E5%A7%8A%E5%BC%9F%E6%88%80%E6%9B%9D%E5%85%89-%E6%9A%97%E6%92%BB%E5%A4%A710%E5%B9%B4%E6%80%A7%E6%84%9F%E5%A5%B3%E5%8F%8B-12280502.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/502/c.jpg?20201013235009">
+								</div>
+				<div class="text">【Staycation洩蜜】「朱凌凌」吳偉豪姊弟戀曝光 暗撻大10年性感女友</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/3/53/%E5%88%86%E9%9A%94%E5%85%A9%E5%9C%B0-%E8%83%A1%E6%9D%8F%E5%85%92%E7%82%BA%E8%BF%BD%E5%A4%A2%E9%9B%A2%E9%96%8B%E5%9B%9D%E5%9B%9D-%E7%9C%BC%E6%BF%95%E6%BF%95%E9%9A%94%E7%A9%BA%E6%85%B6%E7%94%9F%E6%97%A5-12280451.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/451/c.jpg?20201013235230">
+								</div>
+				<div class="text">【分隔兩地】胡杏兒為追夢離開囝囝 眼濕濕隔空慶生日</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/3/53/%E9%A8%B7%E9%95%B7%E8%85%BF-%E7%AC%91%E8%94%A1%E6%80%9D%E8%B2%9D%E6%88%87%E5%B1%85-%E8%B3%B4%E6%85%B0%E7%8E%B2%E5%AD%B8%E9%98%BFSa%E5%94%B1%E9%8C%AF%E6%AD%8C%E8%A9%9E-%E7%84%B6%E5%BE%8C%E8%B2%B7%E8%A5%AA%E8%B2%B7%E8%A1%AB%E5%8F%AF%E4%BB%A5%E5%81%9A%E9%A2%A8%E7%B4%80-12280444.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/444/c.jpg?20201013235518">
+								</div>
+				<div class="text">【騷長腿】笑蔡思貝戇居 賴慰玲學阿Sa唱錯歌詞：然後買襪買衫可以做風紀</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/3/4/%E9%98%BFLam-73%E6%AD%B2%E7%94%9F%E6%97%A5-%E6%9E%97%E5%BE%B7%E4%BF%A1%E6%8B%96%E5%A5%B3%E5%8F%8B%E6%85%B6%E7%A5%9D-12280922.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/922/c.jpg?20201014060014">
+								</div>
+				<div class="text">阿Lam 73歲生日 林德信拖女友慶祝</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat4">
+<a  href="/sports/">體育 <div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/sports/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 焦點報導</a></li>
+<li><a style="color:#71a842" target="_blank" href="http://soccer.sina.com.hk/?cf=s-snav"><i class="fa fa-angle-double-right"></i> 足球消息</a></li>
+<li><a href="/sports/basketball.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 籃球</a></li>
+<li><a href="/sports/f1.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 賽車</a></li>
+<li><a href="/sports/badminton.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 羽毛球</a></li>
+<li><a href="/sports/volleyball.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 排球</a></li>
+<li><a href="/sports/snooker.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 桌球</a></li>
+<li><a href="/sports/cycling.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 單車</a></li>
+<li><a href="/sports/horse.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 賽馬</a></li>
+<li><a href="/sports/tennis.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 網球</a></li>
+<li><a href="/sports/others.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 其他</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="http://soccer.sina.com.hk/news/1/20201014/12280958/" target="_blank">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/958/c.jpg?20201014061003">
+								</div>
+				<div class="text">【世盃外】美斯率隊阿根廷2-1逆轉奪連勝</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="http://soccer.sina.com.hk/news/1/20201014/12281248/" target="_blank">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/248/c.jpg?20201014083102">
+								</div>
+				<div class="text">火藥味濃！美斯與摩蘭奴對罵+動手 球證幫忙拉開</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="http://soccer.sina.com.hk/news/1/20201014/12280875/" target="_blank">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/875/c.jpg?20201014050003">
+								</div>
+				<div class="text">【歐國聯】德國出場3-3平瑞士</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="http://soccer.sina.com.hk/news/1/20201014/12281521/" target="_blank">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/521/c.jpg?20201014092702">
+								</div>
+				<div class="text">羅美路求離隊，隊友暴怒：紅魔這麼對他太過分</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat5">
+<a  href="/tech/">數碼遊戲<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/tech/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Editor's Pick</a></li>
+<li><a href="/tech/mobile.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 手機</a></li>
+<li><a href="/tech/apple.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Apple 專區</a></li>
+<li><a href="/tech/photography.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 攝影</a></li>
+<li><a href="/tech/products.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 數碼產品</a></li>
+<li><a href="/tech/tech_news.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 科技新聞</a></li>
+<li><a href="/tech/trendy.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 潮玩</a></li>
+<li><a href="/tech/game.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 電玩情報</a></li>
+<li><a href="/tech/photography_album.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 攝影圖集</a></li>
+<li><a target="_blank" href="http://games.sina.com.cn/hk/?cf=s-snav"><i class="fa fa-angle-double-right"></i> 新浪遊戲香港站</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="/news/article/20201014/0/5/2/Apple%E6%8E%A8%E5%87%BAiPhone12-mini-%E5%94%AE%E5%83%B9699%E7%BE%8E%E5%85%83%E8%B5%B7-12280722.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/cap/3/2020/10/14/3/37a08a977af1e7ece83d44b376fbe450.jpg">
+								</div>
+				<div class="text">Apple推出iPhone12 mini 售價699美元起</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/5/2/Apple%E6%AD%A3%E5%BC%8F%E7%99%BC%E4%BD%88iPhone-12%E6%89%8B%E6%A9%9F-%E4%BA%94%E7%A8%AE%E9%85%8D%E8%89%B2-%E8%A8%AD%E8%A8%88%E8%87%B4%E6%95%ACiPhone-4-12280683.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/cap/3/2020/10/14/3/3c05e047de8790b9dc3bbc1a2b345cf2.jpg">
+								</div>
+				<div class="text">Apple正式發佈iPhone 12手機：五種配色 設計致敬iPhone 4</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/5/2/iPhone-12%E6%AD%A3%E5%BC%8F%E7%99%BC%E4%BD%88-8%E5%B0%8F%E9%BB%9E%E5%B9%AB%E4%BD%A0%E5%85%A8%E9%83%A8%E8%AE%80%E6%87%82%E5%AE%83-12281065.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/065/c.jpg?20201014074504">
+								</div>
+				<div class="text">iPhone 12正式發佈：8小點幫你全部讀懂它！</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/5/2/%E9%83%BD%E6%98%AF%E4%B8%89%E6%94%9D-%E4%BD%86iPhone-12-Pro-Max%E6%AF%94iPhone-12-Pro%E6%9B%B4%E5%BC%B7-12281001.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/001/c.jpg?20201014065503">
+								</div>
+				<div class="text">都是三攝 但iPhone 12 Pro Max比iPhone 12 Pro更強</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat6">
+<a  href="/beauty/">Beauty<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/beauty/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Editor's Pick</a></li>
+<li><a href="/beauty/fashion.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Fashion</a></li>
+<li><a href="/beauty/beauty.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Beauty tips</a></li>
+<li><a href="/beauty/love_sex.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Love & Sex</a></li>
+<li><a href="/beauty/fitness.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Fitness</a></li>
+<li><a target="_blank" href="http://mindcity.sina.com.tw/?cf=s-snav"><i class="fa fa-angle-double-right"></i> Astrology</a></li>
+<li><a href="/beauty/column.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Column</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="/news/article/20201013/0/6/83/%E4%B8%8A%E6%B5%B7%E5%90%8D%E5%AA%9B%E7%BE%A4%E7%B5%84-%E7%82%BA%E4%BA%86%E5%BD%B1%E7%9B%B8%E6%89%93%E5%8D%A1-6%E4%BA%BA%E5%A4%BE%E9%8C%A2%E9%A3%9F%E9%85%92%E5%BA%97%E4%B8%8B%E5%8D%88%E8%8C%B640%E4%BA%BA%E5%A4%BE%E9%8C%A2%E7%A7%9F%E9%85%92%E5%BA%97%E6%88%BF-%E9%82%84%E8%A6%81%E5%88%86%E6%89%B9%E5%85%A5-12278789.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/278/789/c.jpg?20201013153804">
+								</div>
+				<div class="text">【上海名媛群組】為了影相打卡：6人夾錢食酒店下午茶、40人夾錢租酒店房 還要分批入？！</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/6/83/%E6%83%85%E4%BE%B6%E5%A4%AB%E5%A6%BB%E5%BF%85%E8%AE%80%E9%85%92%E5%BA%97staycation%E5%81%9A%E6%84%9Bcheck-in%E5%89%8D4%E7%A8%AE%E6%BA%96%E5%82%99%E8%AE%93%E4%BD%A0%E5%A2%9E%E6%80%A7%E7%A6%8F-12279965.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/965/c.jpg?20201013203901">
+								</div>
+				<div class="text">情侶夫妻必讀！酒店staycation做愛check-in前4種準備讓你增性福！</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201014/0/6/82/CHECKED-STYLE%E6%89%93%E7%A0%B4%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B%E7%9A%84%E4%B8%8A%E7%8F%AD%E9%80%A0%E5%9E%8B6-%E5%80%8B%E7%A7%8B%E5%86%AC%E6%9C%80-hit-%E6%A0%BC%E4%BB%94%E9%80%A0%E5%9E%8B%E4%B8%80%E5%AE%9A%E9%81%A9%E5%90%88%E4%BD%A0-12280727.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/727/c.jpg?20201014024002">
+								</div>
+				<div class="text">CHECKED STYLE！打破千篇一律的上班造型，6 個秋冬最 hit 格仔造型一定適合你</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/6/82/OL%E5%BF%85%E7%9D%87-4-%E9%A1%9E%E6%99%82%E5%B0%9A%E8%A4%B8%E6%AC%BE%E5%B9%AB%E4%BD%A0%E5%A1%91%E9%80%A0%E7%A7%8B%E5%86%AC%E7%8D%A8%E7%89%B9%E4%B8%8A%E7%8F%AD%E9%80%A0%E5%9E%8B-12276241.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/276/241/c.jpg?20201013014002">
+								</div>
+				<div class="text">【OL必睇】4 類時尚褸款，幫你塑造秋冬獨特上班造型！</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat7">
+<a  href="/lifestyle/">Lifestyle<div class="select"></div></a>
+<div class="subcat">
+<div class="top">
+<ul class="clearfix">
+<li><a><i class="fa fa-angle-double-down"></i> 熱門</a></li>
+<li><a href="/lifestyle/recommend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> Editor's Pick</a></li>
+<li><a href="/lifestyle/food.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 飲食</a></li>
+<li><a href="/lifestyle/trend.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 潮流</a></li>
+<li><a href="/lifestyle/travel.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 旅遊</a></li>
+<li><a href="/lifestyle/home.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 家居</a></li>
+<li><a href="/lifestyle/auto.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 汽車</a></li>
+<li><a href="/lifestyle/health.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 健康</a></li>
+<li><a href="/lifestyle/parent.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 親子</a></li>
+<li><a href="/lifestyle/astrology.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 星座</a></li>
+<li><a href="/lifestyle/pet.html?cf=s-snav"><i class="fa fa-angle-double-right"></i> 寵物</a></li>
+</ul>
+</div>
+<div class="bottom">
+	<ul class="clearfix">
+				<li>
+			<a class="block" href="/news/article/20201009/0/7/57/%E5%A4%A7%E9%A6%AC%E9%81%8B%E5%8B%95%E7%BE%8E%E5%A5%B3Celine-%E9%9D%A0%E7%AB%99%E7%AB%8B%E4%B8%80%E5%AD%97%E9%A6%AC%E7%88%86%E7%B4%85-12264399.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/264/399/c.jpg?20201009120703">
+								</div>
+				<div class="text">大馬運動美女Celine 靠站立一字馬爆紅</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201012/0/7/57/Maison-Magiela%E8%81%AF%E4%B9%98The-North-Face-%E6%89%93%E7%A0%B4%E6%80%A7%E5%88%A5%E6%A1%86%E6%9E%B6-12274481.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/274/481/c.jpg?20201012160703">
+								</div>
+				<div class="text">Maison Magiela聯乘The North Face 打破性別框架</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201011/0/7/57/Fred-Perry-x-Comme-des-Garons-%E9%87%8D%E6%96%B0%E6%BC%94%E7%B9%B9%E7%B6%93%E5%85%B8%E9%A6%AC%E7%90%83%E8%A3%87-12270298.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/270/298/c.jpg?20201011100906">
+								</div>
+				<div class="text">Fred Perry x Comme des Garçons  重新演繹經典馬球裇</div>
+			</a>
+		</li>
+				<li>
+			<a class="block" href="/news/article/20201013/0/7/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html">
+				<div class="photo">
+												<img class="v" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/960/c.jpg?20201013203702">
+								</div>
+				<div class="text">連Balenciaga也曾經致敬的家品牌子 IKEA推出自家時尚系列</div>
+			</a>
+		</li>
+			</ul>
+</div>
+</div>
+</li>
+<li class="cat8">
+<a  href="/dawanqu/">大灣區<div class="select"></div></a>
+</li>
+<li class="cat9">
+<a target="_blank" href="http://hk.weibo.com">微博<div class="select"></div></a>
+</li>
+</ul>
+</nav>
+<ul class="search_weather clearfix">
+<li>
+
+<div class="search border">
+<div class="wrapper">
+<input type="text" name="keyword" placeholder="搜尋" />
+<input type="hidden" name="type" value="news"/>
+<div class="btn"><span class="icon"></span><i class="fa fa-angle-double-left"></i><i class="fa fa-angle-double-right"></i></div>
+</div>
+</div>
+
+</li>
+<li>
+<div class="weather border">
+<div class="wrapper">
+<a target="_blank" href="http://weather.sina.com.hk"><img src="//rs3.sinahk.net/1y/layout/common/weather/140619/0/62.png" alt="微雨" title="微雨" />25°C</a><span>14/10/2020</span></div>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="headerMargin"></div>
+<div class="row">
+<div class="topads">
+
+<div id='div-gpt-ad-1440575747039-0'></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1440575747039-0'); });</script>
+
+</div>
+</div>
+<div class="row">
+<div class="contentmain-single">
+<section id="content"><!-- --><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexTopHiliteV2">
+<div class="leftColumn">
+<ul>
+<li>
+<a href="/news/article/20201014/5/41/2/%E5%88%9D%E6%AC%A1%E8%A6%8B%E9%9D%A2iPhone-12%E4%BD%A0%E5%A5%BD-12282082.html?cf=hp-hilite">
+<div class="block">
+<div class="image">
+<img class="v" src="//rs3.sinahk.net/1y/s/up/7/hilite_main/0/000/000/066/p1_20201014105901.jpg?20201014105901">
+</div>
+<div class="textWrapper">
+<div class="title">初次見面，iPhone 12，你好！</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201014/4/17/2/%E5%B7%B4%E5%A1%9E%E6%9C%80%E5%BE%8C%E6%99%82%E5%88%BB%E6%8C%96%E6%98%94%E6%97%A5%E5%90%8D%E5%B0%87%E5%A4%B1%E6%95%97-%E6%89%93%E6%84%9F%E6%83%85%E7%89%8C%E6%B2%92%E7%94%A8%E4%BA%86-12281975.html?cf=hp-hilite">
+<div class="block">
+<div class="image">
+<img class="v" src="//rs3.sinahk.net/1y/s/up/7/hilite_main/0/000/000/067/p1_20201014105901.jpg?20201014105901">
+</div>
+<div class="textWrapper">
+<div class="title">巴塞最後時刻挖昔日名將失敗 打感情牌沒用了</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201014/4/17/2/%E8%B2%9D%E5%9C%96%E7%BE%8E%E5%A5%A7%E6%9C%9B%E4%BB%BB%E6%9C%9F%E5%85%A7%E7%BA%8C%E7%B4%841%E4%BA%BA-%E5%8F%AA%E5%89%A9%E6%9C%80%E5%BE%8C%E7%B4%B0%E7%AF%80-12281909.html?cf=hp-hilite">
+<div class="block">
+<div class="image">
+<img class="v" src="//rs3.sinahk.net/1y/s/up/7/hilite_main/0/000/000/068/p1_20201014105902.jpg?20201014105902">
+</div>
+<div class="textWrapper">
+<div class="title">貝圖美奧望任期內續約1人 只剩最後細節</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201014/5/41/2/Apple%E7%99%BC%E4%BD%88%E6%96%B0%E6%AC%BE%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1Homepod-mini-%E9%AB%98%E5%BA%A6%E4%B8%8D%E5%88%B09%E9%87%90%E7%B1%B3-%E5%94%AE%E5%83%B9749%E5%85%83-12281922.html?cf=hp-hilite">
+<div class="block">
+<div class="image">
+<img class="v" src="//rs3.sinahk.net/1y/s/up/7/hilite_main/0/000/000/071/p1_20201014105902.jpg?20201014105902">
+</div>
+<div class="textWrapper">
+<div class="title">Apple發佈新款智能音箱Homepod mini：高度不到9釐米 售價749元</div>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="rightColumn">
+<div class="firstHilite">
+<a href="http://soccer.sina.com.hk/news/7/20201014/12281323/?cf=hp-hilite">
+<div class="block">
+<div class="image">
+<img src="//rs3.sinahk.net/1y/s/up/30/newshilite/0/000/000/017/p1_20201014100118.jpg?20201014100118">
+</div>
+<div class="textWrapper">
+<div class="title">C.朗1張合照令人擔憂！葡萄牙隊恐集體感染</div>
+<div class="desc">C.朗拿度（Cristiano Ronaldo）新冠病毒檢測結果呈陽性，已經開始隔離。而在之前一天，他剛和葡萄牙的隊友們一起聚餐。</div>
+</div>
+</div>
+</a>
+</div>
+<div class="moreHilite">
+<ul class="clearfix">
+<li>
+<a href="http://soccer.sina.com.hk/news/7/20201013/12280449/?cf=hp-hilite">
+<div class="block">
+<div class="imageWrapper">
+<div class="image">
+<img src="//rs3.sinahk.net/1y/s/up/30/newshilite/0/000/000/018/p1_20201014100144.jpg?20201014100144">
+</div>
+</div>
+<div class="titleWrapper"><div class="title">C.朗染疫至少隔離10日 趕得上出戰美斯嗎？</div></div>
+</div>
+</a>
+</li>
+<li>
+<a href="http://soccer.sina.com.hk/news/7/20201014/12281438/?cf=hp-hilite">
+<div class="block">
+<div class="imageWrapper">
+<div class="image">
+<img src="//rs3.sinahk.net/1y/s/up/30/newshilite/0/000/000/019/p1_20201014100154.jpg?20201014100154">
+</div>
+</div>
+<div class="titleWrapper"><div class="title">已找出C.朗感染源頭？他是被這兩人傳染？</div></div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201014/4/33/2/%E7%8D%A8%E8%A1%8C%E4%BF%A0%E8%A6%81%E7%B5%84%E4%B8%89%E5%B7%A8%E9%A0%AD%E6%98%8E%E5%B9%B4%E5%A4%8F%E5%A4%A9%E5%85%A8%E5%8A%9B%E8%BF%BD%E5%AD%97%E6%AF%8D%E5%93%A5-12281084.html?cf=hp-hilite">
+<div class="block">
+<div class="imageWrapper">
+<div class="image">
+<img src="//rs3.sinahk.net/1y/s/up/30/newshilite/0/000/000/020/p1_20201014100226.png?20201014100226">
+</div>
+</div>
+<div class="titleWrapper"><div class="title">獨行俠要組三巨頭！明年夏天全力追字母哥</div></div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201014/4/33/2/%E6%B9%96%E4%BA%BA%E5%8F%AF%E8%83%BD%E5%8E%BB%E7%88%AD%E5%8F%96%E7%9A%84%E7%AC%AC%E4%B8%89%E5%B7%A8%E9%A0%AD-%E6%AF%94%E7%88%BE%E5%92%8C%E9%9F%8B%E6%96%AF%E5%8D%9C%E5%85%8B%E9%A0%98%E9%8A%9C-12281215.html?cf=hp-hilite">
+<div class="block">
+<div class="imageWrapper">
+<div class="image">
+<img src="//rs3.sinahk.net/1y/s/up/7/hilite_main/0/000/000/021/p1_20201014090007.png?20201014090007">
+</div>
+</div>
+<div class="titleWrapper"><div class="title">湖人可能去爭取的第三巨頭！ 比爾和韋斯卜克領銜</div></div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div></section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div id="sbAdsText"><div id="div-gpt-ad-1503543791215-0" class="ad48"></div><script type="text/javascript">googletag.cmd.push(function() { googletag.display("div-gpt-ad-1503543791215-0"); });</script></div><div class="sbAds">
+<div id='div-gpt-ad-1440576041783-0' class="ad250"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1440576041783-0'); });</script>
+</div><div class="sbAds">
+<div id='div-gpt-ad-1467792591445-0' class="ad250"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467792591445-0'); });</script>
+</div><div class="sbAds">
+<!-- <div id='div-gpt-ad-1443068936805-4' class="ad90"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1443068936805-4'); });</script> -->
+<a style="display: block" class="ad90" href="https://sina.com.hk/p/supplement/index/hongkong2020"><img src="//rs3.sinahk.net/s/manual/2020/hongkong2020.jpg"/></a>
+</div>
+</section>
+</div>
+</div><div class="indexRow">
+    <div class="indexCategoryList">
+        <div class="top">
+            <a class="blockTitle" target="_blank" href="https://www.youtube.com/c/Weibo%E5%BE%AE%E5%8D%9A">視頻</a>
+        </div>
+    </div>
+    <ul class="indexYoutube clearfix">
+                <li>
+            <a onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'az0cGOQz_0c'} );" class="block" target="_blank" href="https://www.youtube.com/watch?v=az0cGOQz_0c">
+                <div class="image">
+                    <img src="https://img.youtube.com/vi/az0cGOQz_0c/mqdefault.jpg">
+                </div>
+                <div class="textWrapper">
+                    <div class="title">帶著微博去旅行：看完記得去打卡係列</div>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'VumgeX2_kQk'} );" class="block" target="_blank" href="https://www.youtube.com/watch?v=VumgeX2_kQk">
+                <div class="image">
+                    <img src="https://img.youtube.com/vi/VumgeX2_kQk/mqdefault.jpg">
+                </div>
+                <div class="textWrapper">
+                    <div class="title">#微博樂活大灣區 秋日限定！最大型家居商場「咖啡」手作篇</div>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'lYhf47KOCmE'} );" class="block" target="_blank" href="https://www.youtube.com/watch?v=lYhf47KOCmE">
+                <div class="image">
+                    <img src="https://img.youtube.com/vi/lYhf47KOCmE/mqdefault.jpg">
+                </div>
+                <div class="textWrapper">
+                    <div class="title">微博美食：普羅旺斯牛肉燉茄子</div>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a onclick="gtag('event', 'Click', { 'send_to': 'UA-176302290-1', event_category: 'YoutubeVideo', event_action: 'click', event_label: 'vgDfxbGbzII'} );" class="block" target="_blank" href="https://www.youtube.com/watch?v=vgDfxbGbzII">
+                <div class="image">
+                    <img src="https://img.youtube.com/vi/vgDfxbGbzII/mqdefault.jpg">
+                </div>
+                <div class="textWrapper">
+                    <div class="title">微博美食：教你做奶香南瓜小饅頭</div>
+                </div>
+            </a>
+        </li>
+            </ul>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexCategoryList entertainment">
+<div class="top">
+<a class="blockTitle" href="/entertainment/">娛樂</a>
+<ul>
+<li><a href="/entertainment/recommend.html?cf=s-hpc">焦點</a></li>
+<li><a href="/entertainment/interview.html?cf=s-hpc">專訪</a></li>
+<li><a href="/entertainment/kpop.html?cf=s-hpc">韓星</a></li>
+<li><a href="/entertainment/movie/current.html?cf=s-hpc">電影</a></li>
+</ul>
+</div>
+<div class="indexListing default entertainment">
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/3/29/29/%E6%8B%92%E7%B5%95%E5%B9%B3%E5%87%A1%E9%9F%93%E7%B6%B2%E7%B8%BD%E7%B5%90%E5%81%B6%E9%81%87EXO%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B%E6%9C%AA%E5%85%8D%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86%E5%90%A7XD-12281745.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/745/t.jpg?20201014101602"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/3/29/29/%E6%8B%92%E7%B5%95%E5%B9%B3%E5%87%A1%E9%9F%93%E7%B6%B2%E7%B8%BD%E7%B5%90%E5%81%B6%E9%81%87EXO%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B%E6%9C%AA%E5%85%8D%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86%E5%90%A7XD-12281745.html?cf=hp">拒絕平凡！韓網總結偶遇EXO的小故事，未免太搞笑了吧XD</a>
+</div>
+<div class="text">
+作為愛豆飯，誰不想在現實生活中邂逅自己的本命呢? 一個陽光明媚的午後，我的眼前突然出現了帥氣、高大的他...最近韓網上有…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">09:00</span>
+<a class="author" href="/p/search/author/?a=韓星網">韓星網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E7%87%A6%E7%83%88">燦烈</a><a href="/p/search/news/?k=EXO">EXO</a><a href="/p/search/news/?k=%E5%86%A0%E8%BB%8D">冠軍</a><a href="/p/search/news/?k=%E7%BE%8E%E5%9C%8B">美國</a><a href="/p/search/news/?k=%E7%94%9F%E6%97%A5">生日</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/3/29/29/%E6%92%9E%E8%A1%AB%E4%B8%8D%E5%8F%AF%E6%80%95%E7%B3%BB%E5%88%97-BLACKPINK-Jennie-VS-TWICE%E5%A8%9C%E7%92%89-ALL-BLACK%E9%80%A0%E5%9E%8B%E4%B8%80%E5%80%8B%E4%BF%8F%E7%9A%AE%E4%B8%80%E5%80%8B%E4%BB%99%E6%B0%A3-12281600.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/600/t.jpg?20201014094603"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/3/29/29/%E6%92%9E%E8%A1%AB%E4%B8%8D%E5%8F%AF%E6%80%95%E7%B3%BB%E5%88%97-BLACKPINK-Jennie-VS-TWICE%E5%A8%9C%E7%92%89-ALL-BLACK%E9%80%A0%E5%9E%8B%E4%B8%80%E5%80%8B%E4%BF%8F%E7%9A%AE%E4%B8%80%E5%80%8B%E4%BB%99%E6%B0%A3-12281600.html?cf=hp">【撞衫不可怕系列】BLACKPINK Jennie VS TWICE娜璉：ALL BLACK造型一個俏皮一個仙氣！</a>
+</div>
+<div class="text">
+娛樂圈經常出現撞衫或造型類似的事情，BLACKPINK Jennie和TWICE娜璉此前就穿過同一件衣服，各有各的美，這…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">08:30</span>
+<a class="author" href="/p/search/author/?a=韓星網">韓星網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=JW">JW</a><a href="/p/search/news/?k=Running+Man">Running Man</a><a href="/p/search/news/?k=%E7%B6%9C%E8%97%9D">綜藝</a><a href="/p/search/news/?k=%E5%86%A0%E8%BB%8D">冠軍</a><a href="/p/search/news/?k=MV">MV</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/3/29/29/%E5%A7%90%E5%A7%90%E7%A7%80%E5%87%BA%E6%96%B0%E6%89%8B%E8%A2%8B%E6%98%AF%E7%87%A6%E7%83%88%E9%80%81%E7%9A%84%E7%94%9F%E6%97%A5%E7%A6%AE%E7%89%A9-%E7%B2%89%E7%B5%B2%E7%9C%8B%E5%AE%8C-%E7%BC%BA%E4%B8%80%E5%80%8B%E5%83%8F%E7%87%A6%E7%83%88%E7%9A%84%E5%A4%9A%E9%87%91%E5%B8%A5%E6%B0%A3%E5%BC%9F%E5%BC%9F-12281443.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/443/t.jpg?20201014091502"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/3/29/29/%E5%A7%90%E5%A7%90%E7%A7%80%E5%87%BA%E6%96%B0%E6%89%8B%E8%A2%8B%E6%98%AF%E7%87%A6%E7%83%88%E9%80%81%E7%9A%84%E7%94%9F%E6%97%A5%E7%A6%AE%E7%89%A9-%E7%B2%89%E7%B5%B2%E7%9C%8B%E5%AE%8C-%E7%BC%BA%E4%B8%80%E5%80%8B%E5%83%8F%E7%87%A6%E7%83%88%E7%9A%84%E5%A4%9A%E9%87%91%E5%B8%A5%E6%B0%A3%E5%BC%9F%E5%BC%9F-12281443.html?cf=hp">姐姐秀出新手袋是燦烈送的生日禮物♥ 粉絲看完：缺一個像燦烈的多金帥氣弟弟！</a>
+</div>
+<div class="text">
+「寵姐達人」EXO燦烈又上線了。粉絲們都知道燦烈和姐姐宥拉的感情特別好，雖然姐弟倆私下裡打打鬧鬧是常有的事情，但弟弟其實…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">08:00</span>
+<a class="author" href="/p/search/author/?a=韓星網">韓星網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E7%87%A6%E7%83%88">燦烈</a><a href="/p/search/news/?k=EXO">EXO</a><a href="/p/search/news/?k=%E5%86%A0%E8%BB%8D">冠軍</a><a href="/p/search/news/?k=%E7%94%9F%E6%97%A5">生日</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/3/29/53/%E5%88%86%E9%9A%94%E5%85%A9%E5%9C%B0-%E8%83%A1%E6%9D%8F%E5%85%92%E7%82%BA%E8%BF%BD%E5%A4%A2%E9%9B%A2%E9%96%8B%E5%9B%9D%E5%9B%9D-%E7%9C%BC%E6%BF%95%E6%BF%95%E9%9A%94%E7%A9%BA%E6%85%B6%E7%94%9F%E6%97%A5-12280451.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/451/t.jpg?20201013235230"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/3/29/53/%E5%88%86%E9%9A%94%E5%85%A9%E5%9C%B0-%E8%83%A1%E6%9D%8F%E5%85%92%E7%82%BA%E8%BF%BD%E5%A4%A2%E9%9B%A2%E9%96%8B%E5%9B%9D%E5%9B%9D-%E7%9C%BC%E6%BF%95%E6%BF%95%E9%9A%94%E7%A9%BA%E6%85%B6%E7%94%9F%E6%97%A5-12280451.html?cf=hp">【分隔兩地】胡杏兒為追夢離開囝囝 眼濕濕隔空慶生日</a>
+</div>
+<div class="text">
+胡杏兒近日帶同1歲細仔李奕霖（Ryan）在內地開工，一家四口分隔兩地，中秋節也未能一起度過，只能靠視像通話團聚。日前大仔…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">07:00</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E8%83%A1%E6%9D%8F%E5%85%92">胡杏兒</a><a href="/p/search/news/?k=%E5%BE%AE%E5%8D%9A">微博</a><a href="/p/search/news/?k=%E7%94%9F%E6%97%A5">生日</a><a href="/p/search/news/?k=%E5%85%A7%E5%9C%B0">內地</a><a href="/p/search/news/?k=%E8%80%81%E5%85%AC">老公</a>
+</div></div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+<div class="sb sbEntCurrentMovie entertainment">
+<div class="top">
+<a href="/entertainment/movie/current.html"><div class="title">現正上映電影</div></a><a class="more" href="/entertainment/movie/current.html"><i class="dot"></i></a></div>
+<div class="listWrapper" >
+<ul>
+<li>
+<div class="block">
+<div class="photo"><a href="/p/entertainment/movie/detail/5155"><img class="lazy" data-original="//rs3.sinahk.net/1y/s/up/movie/0/000/005/155/p1.jpg?20200929125511" /></a></div>
+<div class="textWrapper">
+<div class="title" >
+<a href="/p/entertainment/movie/detail/5155">信用欺詐師JP : 公主篇</a>
+</div>
+<div class="desc" >相隔一年，信用欺詐師又搵到新水魚！欺詐三人組上集玩殘香港女帝，今次誓要反轉星馬！
+新加坡富豪胡雷盟突然離世，他竟然指定從未露面的私生女Michelle為繼承人！世界各地欺詐師聽到消息後蜂擁而至，達子（長澤正美 飾）當然也不會放過這條大魚！她從街上找來只識點頭的孤兒（關水渚 飾） 偽裝成Michelle，與少爺仔（東出昌大　飾）和理察（小日向文世 飾）相繼潛入胡家爭產。他們一邊要防備胡雷盟三名子女（徐若瑄、古川雄大、白濱亞嵐 飾）的暗算，另一邊要應付加入混戰的愛情騙子傑西（三浦春馬 飾）及仇人黑幫大佬（江口洋介 飾）﹗左右夾撃下，欺詐三人組能否成功扭轉大局、全身而退？</div>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="photo"><a href="/p/entertainment/movie/detail/5152"><img class="lazy" data-original="//rs3.sinahk.net/1y/s/up/movie/0/000/005/152/p1.jpg?20200928114826" /></a></div>
+<div class="textWrapper">
+<div class="title" >
+<a href="/p/entertainment/movie/detail/5152">整容液</a>
+</div>
+<div class="desc" >改編自NO.1好評奇幻漫畫《奇奇怪怪》，南韓史上首部都市恐怖動畫！為了變靚，你可以去到幾盡？天生肥胖的女孩一直受盡歧視，某次機遇下得到了「神奇整容液」，只要將身體浸在整容液中，溶化身上皮肉，就能重塑出絕世美貌。她深信不疑，更藉此獲得完美面孔和身材。她走在街上，吸引所有人眼球，並迅速成為網絡熱話，更被經理人公司招攬簽為藝人！她亦重遇早已心儀的完美男神，自此事業愛情兩得意，走到人生巔峰。可惜整容液慢慢產生副作用，為了不讓完美人生被破壞，她內心的惡魔隨即現形，走上一條恐怖的不歸路…</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+</div><div class="row">
+<div id='div-gpt-ad-1467788379339-0' style="margin:0 auto;width:728px;"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467788379339-0'); });</script>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+
+<div class="indexCategoryList news">
+<div class="top">
+<a class="blockTitle" href="/news/">新聞</a>
+<ul>
+<li><a href="/news/realtime.html?cf=s-hpc">即時</a></li>
+<li><a href="/news/hk.html?cf=s-hpc">港聞</a></li>
+<li><a href="/news/china.html?cf=s-hpc">兩岸</a></li>
+<li><a href="/news/international.html?cf=s-hpc">國際</a></li>
+<li><a href="/news/funny.html?cf=s-hpc">趣聞</a></li>
+</ul>
+</div>
+<div class="indexListing default news">
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/1/8/84/%E8%A8%B1%E6%A8%B9%E6%98%8C%E5%BB%BA%E8%AD%B0%E6%A8%82%E6%89%8B%E8%A1%A8%E6%BC%94%E5%89%8D%E6%8E%A5%E5%8F%97%E6%AA%A2%E6%B8%AC-%E9%99%90%E5%88%B6%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E8%81%9A%E9%9B%86%E4%BA%BA%E6%95%B8-12281710.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/710/t.jpg?20201014095604"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/1/8/84/%E8%A8%B1%E6%A8%B9%E6%98%8C%E5%BB%BA%E8%AD%B0%E6%A8%82%E6%89%8B%E8%A1%A8%E6%BC%94%E5%89%8D%E6%8E%A5%E5%8F%97%E6%AA%A2%E6%B8%AC-%E9%99%90%E5%88%B6%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E8%81%9A%E9%9B%86%E4%BA%BA%E6%95%B8-12281710.html?cf=hp">許樹昌建議樂手表演前接受檢測　限制酒店房間聚集人數</a>
+</div>
+<div class="text">
+香港管弦樂團一名單簧管樂手初步確診新型肺炎，中大呼吸系統科講座教授許樹昌說，由於樂手沒有戴口罩，在患者周邊的其他樂手有較高受感染風險，但相信對觀眾的影響很微。
+許樹昌在本台節目《千禧年代》說，現時社區仍有隱形傳播鏈，樂手在表演前可能要先接受檢測，甚至可能要循環接受檢測，確定無帶病毒才可表演。
+對於有建議要求即使病徵輕微人士到私家醫生求診，亦需要強制接受測試，許樹昌說，部分私家醫生警覺性可能不夠高，…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">09:40</span>
+<a class="author" href="/p/search/author/?a=香港電台">香港電台</a>
+</div>
+<div class="keyword">
+<a href="/p/search/news/?k=%E4%B8%AD%E5%A4%A7">中大</a><a href="/p/search/news/?k=%E8%82%BA%E7%82%8E">肺炎</a><a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a></div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/1/8/1/%E5%A5%87%E8%81%9E-%E8%8B%B1%E5%A5%B3%E5%9B%9B%E5%B9%B4%E5%86%87%E4%BE%86%E7%B6%93-%E8%A8%BA%E6%96%B7%E5%BE%8C%E7%99%BC%E7%8F%BE%E6%9C%89%E5%85%A9%E5%80%8B%E5%AD%90%E5%AE%AE-12278468.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/278/468/t.jpg?20201013143701"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/1/8/1/%E5%A5%87%E8%81%9E-%E8%8B%B1%E5%A5%B3%E5%9B%9B%E5%B9%B4%E5%86%87%E4%BE%86%E7%B6%93-%E8%A8%BA%E6%96%B7%E5%BE%8C%E7%99%BC%E7%8F%BE%E6%9C%89%E5%85%A9%E5%80%8B%E5%AD%90%E5%AE%AE-12278468.html?cf=hp">【奇聞】英女四年冇來經 診斷後發現有兩個子宮！</a>
+</div>
+<div class="text">
+女性踏入青春期後，大約每個月都會有一次月經，不過英國一名女子竟然四年來都沒有月經，經檢查後，發現她身體來有兩個子宮，要透過手術抽走四年來的經血！
+21 歲的英國女子 Madeleine Janes 自 2015 年起就出現腹痛，當時醫生認為是便秘引起，於是在沒有做任何檢查的情況下，給她一些緩解胃痙攣的藥，不過 Madeleine Janes 的情況一直沒有好轉，甚至試過痛到無法入睡，儘管她多次…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">07:00</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+<a href="/p/search/news/?k=%E8%8B%B1%E5%9C%8B">英國</a></div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/1/8/1/%E6%AD%90%E7%BE%8E%E8%BE%A3%E5%A6%B9-%E4%B8%80%E8%B5%B7%E5%81%A5%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%A5%B3-Sapir-Berko-12277890.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/277/890/t.jpg?20201013113102"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/1/8/1/%E6%AD%90%E7%BE%8E%E8%BE%A3%E5%A6%B9-%E4%B8%80%E8%B5%B7%E5%81%A5%E8%BA%AB%E4%BB%A5%E8%89%B2%E5%88%97%E7%BE%8E%E5%A5%B3-Sapir-Berko-12277890.html?cf=hp">【歐美辣妹】一起健身！以色列美女「Sapir Berko」</a>
+</div>
+<div class="text">
+健身已經不再是男士的專利，近年來不少女士為了追求健美的身型，紛紛投入健身活動，今次要為大家介紹的美女，不是一位普通的健美辣妹，她真的參加過健美小姐比賽，可見她有多愛健身！
+&nbsp;
+來自以色列的美女 Sapir Berko 五官立體，長相吸引，身為健身教練的她曾參加過健美比賽，身材線條十分紮實、完美，加上一身古桐色的肌膚，給人一種陽光健康的感覺。
+&nbsp;
+Sapir Berko…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">07:00</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+<a href="/p/search/news/?k=%E7%BE%8E%E5%A5%B3">美女</a><a href="/p/search/news/?k=Instagram">Instagram</a></div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/1/8/4/%E8%A9%A6%E9%A9%97%E8%80%85%E7%8F%BE%E7%84%A1%E6%B3%95%E8%A7%A3%E9%87%8B%E7%97%85-%E5%BC%B7%E7%94%9F%E5%8F%AB%E5%81%9C%E7%96%AB%E8%8B%97%E8%A9%A6%E9%A9%97-12280932.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/932/t.jpg?20201014060012"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/1/8/4/%E8%A9%A6%E9%A9%97%E8%80%85%E7%8F%BE%E7%84%A1%E6%B3%95%E8%A7%A3%E9%87%8B%E7%97%85-%E5%BC%B7%E7%94%9F%E5%8F%AB%E5%81%9C%E7%96%AB%E8%8B%97%E8%A9%A6%E9%A9%97-12280932.html?cf=hp">試驗者現無法解釋病 強生叫停疫苗試驗</a>
+</div>
+<div class="text">
+【星島日報報道】美國強生（Johnson &amp; Johnson）公司周一宣布，由於一名受試者出現「無法解釋的疾病」，公司決定暫停由旗下楊森制藥公司研發的一款新冠候選疫苗的臨牀試驗。  強生說，公司將暫停該疫苗的所有臨牀試驗，包括九月底啟動的三期臨牀試驗。目前，一個獨立委員會和強生的關專家正調查和評估這名受試者的病況。聲明說，疾病、意外等不良事件，是任何臨牀研究尤其是大規模臨牀研究可能出現的情…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+<a href="/p/search/news/?k=%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%B8">牛津大學</a><a href="/p/search/news/?k=%E8%82%BA%E7%82%8E">肺炎</a><a href="/p/search/news/?k=%E6%84%8F%E5%A4%96">意外</a><a href="/p/search/news/?k=%E7%BE%8E%E5%9C%8B">美國</a></div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/1/8/4/%E6%9E%97%E9%84%AD-%E4%B8%8D%E4%BB%8B%E6%84%8F%E6%B7%B1%E5%9C%B3GDP%E8%B6%85%E8%B6%8A%E9%A6%99%E6%B8%AF-12280898.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/898/t.jpg?20201014055011"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/1/8/4/%E6%9E%97%E9%84%AD-%E4%B8%8D%E4%BB%8B%E6%84%8F%E6%B7%B1%E5%9C%B3GDP%E8%B6%85%E8%B6%8A%E9%A6%99%E6%B8%AF-12280898.html?cf=hp">林鄭：不介意深圳GDP超越香港</a>
+</div>
+<div class="text">
+【星島日報報道】行政長官林鄭月娥（見圖）今日將出席深圳特區建立四十年慶祝大會，她接受《深圳衛視》訪問時指，不介意其他人常說深圳GDP已超越香港，認為兩地可以良性競爭及深度合作，冀中央會繼續給予深圳特區一些「先行先試」的政策，令兩地可以在全新平台合作。她指，香港近年有一股過分強調本土文化的風氣，排斥內地及內地人，強調會教育，令年輕一代更掌握一國兩制。  林鄭月娥認為，港深之間未必有直接競爭，但在特定…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+<a href="/p/search/news/?k=%E5%9F%BA%E6%9C%AC%E6%B3%95">基本法</a><a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a><a href="/p/search/news/?k=%E8%A8%AA%E5%95%8F">訪問</a><a href="/p/search/news/?k=%E5%8D%81%E5%B9%B4">十年</a></div></div>
+</div>
+</div></div>
+
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+
+<div class="sb sbInstantNews">
+<div class="top">
+<div class="title">即時新聞</div>
+</div>
+<ul>
+<li>
+<div class="block">
+<div class="time">
+10:36</div>
+<div class="title">
+<a href="/news/article/20201014/0/1/84/%E5%BE%90%E8%8B%B1%E5%81%89%E5%B7%B2%E5%81%9A%E6%AA%A2%E6%B8%AC-%E7%95%B6%E6%99%9A%E6%B0%91%E6%94%BF%E4%BA%8B%E5%8B%99%E5%B1%80%E5%8F%8A%E5%BA%B7%E6%96%87%E7%BD%B2%E4%BA%BA%E5%93%A1%E4%BA%A6%E6%9C%83%E6%AA%A2%E6%B8%AC-12281943.html">徐英偉已做檢測　當晚民政事務局及康文署人員亦會檢測</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="time">
+10:32</div>
+<div class="title">
+<a href="/news/article/20201014/0/1/84/%E5%91%A8%E6%B5%A9%E9%BC%8E%E7%A8%B1%E6%87%89%E5%87%86%E9%81%B8%E6%B0%91%E5%85%A7%E5%9C%B0%E6%8A%95%E7%A5%A8-%E5%B0%B9%E5%85%86%E5%A0%85%E8%B3%AA%E7%96%91%E8%8B%A5%E9%81%95%E8%A6%8F%E5%A6%82%E4%BD%95%E5%9F%B7%E6%B3%95-12281924.html">周浩鼎稱應准選民內地投票　尹兆堅質疑若違規如何執法</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="time">
+09:40</div>
+<div class="title">
+<a href="/news/article/20201014/0/1/84/%E8%A8%B1%E6%A8%B9%E6%98%8C%E5%BB%BA%E8%AD%B0%E6%A8%82%E6%89%8B%E8%A1%A8%E6%BC%94%E5%89%8D%E6%8E%A5%E5%8F%97%E6%AA%A2%E6%B8%AC-%E9%99%90%E5%88%B6%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E8%81%9A%E9%9B%86%E4%BA%BA%E6%95%B8-12281710.html">許樹昌建議樂手表演前接受檢測　限制酒店房間聚集人數</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="time">
+09:31</div>
+<div class="title">
+<a href="/news/article/20201014/0/1/84/%E6%98%82%E5%B9%B3360%E7%A8%B1%E5%8F%97%E5%BC%B7%E9%A2%A8%E5%BD%B1%E9%9F%BF%E4%BB%8A%E6%97%A9%E7%BA%9C%E8%BB%8A%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C-12281601.html">昂平360稱受強風影響今早纜車服務暫停</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="time">
+09:22</div>
+<div class="title">
+<a href="/news/article/20201014/0/1/84/%E9%83%AD%E6%8C%AF%E8%8F%AF%E7%A8%B1%E5%A2%9E%E5%8B%9E%E5%B7%A5%E5%81%87%E9%9C%80%E9%81%A9%E6%87%89%E6%9C%9F-%E5%91%A8%E5%B0%8F%E6%9D%BE%E6%8C%873%E5%B9%B4%E5%8F%AF%E6%8E%A5%E5%8F%97-12281537.html">郭振華稱增勞工假需適應期　周小松指3年可接受</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+
+<div class="sbfbpage" style="height: 214px">
+<div class="fb-page" data-href="https://www.facebook.com/hongkongsina" data-width="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/hongkongsina"><a href="https://www.facebook.com/hongkongsina">新浪香港</a></blockquote></div></div>
+</div>
+</section>
+</div>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexCategoryList finance">
+<div class="top">
+<a class="blockTitle" href="/finance/">財經</a>
+<ul>
+<li><a href="/finance/today_focus.html?cf=s-hpc">重點</a></li>
+<li><a href="/finance/property.html?cf=s-hpc">地產</a></li>
+<li><a href="/finance/china_realtime.html?cf=s-hpc">中國</a></li>
+<li><a href="/finance/us_realtime.html?cf=s-hpc">美國</a></li>
+<li><a href="/finance/international_realtime.html?cf=s-hpc">國際</a></li>
+</ul>
+</div>
+<div class="indexFinanceListing">
+<ul class="clearfix">
+<li><div class="block">
+<div class="border">
+<div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/2/69/4/%E6%A0%A2%E5%82%B2%E8%8E%8A%E9%A6%96%E5%BA%A6%E5%8A%A0%E6%8E%A8%E6%87%89%E5%B8%82-%E6%AF%8F%E5%91%8E1-99%E8%90%AC%E6%8F%90%E5%83%B95-12280937.html?cf=hp">栢傲莊首度加推應市 每呎1.99萬提價5%</a>
+</div>
+<div class="text">
+【星島日報報道】焦點新盤出擊，大圍矚目新盤栢傲莊I，連日收票旺場，發展商昨日首度加推，涉及211伙，折實平均呎價19999元，較首張價單高約5.7%，折實入場價721萬；同時亦打鐵趁熱，一併公布銷售安排，悉數推出已開價的391伙，將於周末兩日進行，以目前接獲逾萬票計，超額認購約24倍。  由新世界發展的大圍站栢傲莊，趁勢加推2號價單，涉及211伙，折實平均呎價19999元，較首張價單折實呎價189…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E9%A2%B1%E9%A2%A8">颱風</a><a href="/p/search/news/?k=%E6%96%B0%E7%9B%A4">新盤</a><a href="/p/search/news/?k=%E6%96%B0%E4%B8%96%E7%95%8C%E7%99%BC%E5%B1%95">新世界發展</a><a href="/p/search/news/?k=%E5%B0%87%E8%BB%8D%E6%BE%B3">將軍澳</a><a href="/p/search/news/?k=%E6%A8%93">樓</a>
+</div></div>
+</div>
+</div></li><li><div class="block">
+<div class="border">
+<div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/2/69/4/%E9%80%B8%E7%92%9F%E9%BE%8D%E7%81%A3%E5%8A%A0%E6%8E%A8-%E6%8A%98%E5%AF%A6%E5%91%8E%E5%83%B91-6%E8%90%AC-12280938.html?cf=hp">逸璟．龍灣加推 折實呎價1.6萬</a>
+</div>
+<div class="text">
+【星島日報報道】新盤接連出擊，由中冶發展的逸璟．龍灣目前加推54伙，並於周六應市，折實平均呎價16062元，而當中約33伙為撻訂重售單位。此外，該盤再錄取消交易個案。  荃灣西青龍頭逸璟．龍灣剛上載銷售安排，推出54個1及2房戶，並於本周六以先到先得形式發售，該批單位折實平均呎價16062元，另外，亦推出15個3房戶於下周一起招標。另外，該盤再錄撻訂個案，據成交記錄冊顯示，為1座低層F室，318方…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E6%96%B0%E7%9B%A4">新盤</a><a href="/p/search/news/?k=%E6%A8%93">樓</a>
+</div></div>
+</div>
+</div></li><li><div class="block">
+<div class="border">
+<div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/2/69/4/%E6%BB%99%E6%99%AF%E5%91%8E%E5%83%B91-95%E8%90%AC%E5%85%A9%E5%B9%B4%E6%96%B0%E9%AB%98-12280940.html?cf=hp">滙景呎價1.95萬兩年新高</a>
+</div>
+<div class="text">
+【星島日報報道】交投氣氛改善，有買家無懼8號風球入市，個別錄高價承接。美林物業高級客戶經理林小燕指，藍田滙景花園連錄2宗成交，包括10座頂層連天台單位，720方呎，3房間隔，以1405萬沽，呎價19514元，造價創屋苑逾2年新高。  中原資深區域營業董事趙鴻運稱，鰂魚涌太古城高安閣中層C室，701方呎，原則3房改2房，以1338萬成交，呎價約19087元。區內代理指，沙田第一城45座中層C室，30…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E5%B0%87%E8%BB%8D%E6%BE%B3">將軍澳</a><a href="/p/search/news/?k=%E5%85%83%E6%9C%97">元朗</a>
+</div></div>
+</div>
+</div></li><li><div class="block">
+<div class="border">
+<div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/2/69/4/600%E8%90%AC%E8%87%B3%E5%8D%83%E8%90%AC%E7%B4%B0%E6%88%B6%E6%88%90%E4%BA%A4%E6%80%A5%E5%8D%87-12280941.html?cf=hp">600萬至千萬細戶成交急升</a>
+</div>
+<div class="text">
+【星島日報報道】政府推出新按保措施一周年，樓價600萬至1000萬細戶直接受惠，據美聯指出，今年首9個月該類物業成交量錄14399宗，較去年同期升逾47%，同時亦預期今年二手將價量齊升，並倡政府進一步放寬1000萬至2000萬以下按保成數，並以重啟換樓鏈。  美聯首席分析師劉嘉輝表示，去年《施政報告》為首置人士放寬按揭保險計畫的樓價上限，措施至今實施近1周年，據土地註冊處資料，今年首9個月二手住宅…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">03:00</span>
+<a class="author" href="/p/search/author/?a=星島日報">星島日報</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A">施政報告</a><a href="/p/search/news/?k=%E6%A8%93">樓</a>
+</div></div>
+</div>
+</div></li></ul>
+</div></div>
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+<div class="sbAds">
+<div id='div-gpt-ad-1522209069407-0' class="ad250"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1522209069407-0'); });</script>
+</div></section>
+</div>
+</div><div class="row">
+<div id='div-gpt-ad-1472459355920-0' style="margin:0 auto;width:728px;"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1472459355920-0'); });</script>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexCategoryList sports">
+<div class="top">
+<a class="blockTitle" href="/sports/">體育</a>
+<ul>
+<li><a href="http://soccer.sina.com.hk/?cf=s-hpc">足球</a></li>
+<li><a href="/sports/basketball.html?cf=s-hpc">籃球</a></li>
+<li><a href="/sports/volleyball.html?cf=s-hpc">排球</a></li>
+<li><a href="/sports/badminton.html?cf=s-hpc">羽毛球</a></li>
+<li><a href="/sports/f1.html?cf=s-hpc">賽車</a></li>
+</ul>
+</div>
+<div class="indexSportsRow">
+<div class="indexSportsContentwrapper">
+<div class="indexSportsContentmain">
+<section>
+<div class="indexListing default sports">
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/4/17/2/%E7%9E%AA%E5%A4%A7%E7%9C%BC%E7%B1%83%E7%90%83%E5%A0%B4%E4%B8%8A%E7%9A%84-%E5%93%8E%E5%91%A6%E8%87%A5%E6%A7%BD-%E7%B3%BB%E5%88%97-12282134.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/cap/3/2020/10/14/3/3ab9e8edc9496d3bebeaf5148871dd6c.jpg"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/4/17/2/%E7%9E%AA%E5%A4%A7%E7%9C%BC%E7%B1%83%E7%90%83%E5%A0%B4%E4%B8%8A%E7%9A%84-%E5%93%8E%E5%91%A6%E8%87%A5%E6%A7%BD-%E7%B3%BB%E5%88%97-12282134.html?cf=hp">瞪大眼！籃球場上的 “哎呦，臥槽” 系列</a>
+</div>
+<div class="text">
+</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:58</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+</div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/4/17/2/%E8%81%96%E5%BD%BC%E5%BE%97%E5%A0%A1%E8%B3%BD%E4%B8%98%E9%87%8C%E5%A5%87%E6%B7%98%E6%B1%B0%E8%A5%BF%E7%8F%AD%E7%89%99%E8%80%81%E5%B0%87-%E6%94%9C%E6%8B%89%E5%A5%A7%E5%B0%BC%E5%A5%87%E9%81%8E%E9%97%9C-12281888.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/888/t.jpg?20201014104103"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/4/17/2/%E8%81%96%E5%BD%BC%E5%BE%97%E5%A0%A1%E8%B3%BD%E4%B8%98%E9%87%8C%E5%A5%87%E6%B7%98%E6%B1%B0%E8%A5%BF%E7%8F%AD%E7%89%99%E8%80%81%E5%B0%87-%E6%94%9C%E6%8B%89%E5%A5%A7%E5%B0%BC%E5%A5%87%E9%81%8E%E9%97%9C-12281888.html?cf=hp">聖彼得堡賽丘里奇淘汰西班牙老將 攜拉奧尼奇過關</a>
+</div>
+<div class="text">
+ 香港時間10月14日消息，2020年ATP聖彼得堡賽繼續首輪的較量，…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:30</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/4/17/2/C-%E6%9C%97%E6%8B%BF%E5%BA%A6%E6%9B%BE%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%B8%E5%A4%9A%E4%BD%8D%E5%A4%A7%E7%89%8C%E7%90%83%E6%98%9F-%E7%A2%BA%E8%A8%BA%E5%89%8D%E6%B4%BB%E5%8B%95%E8%BB%8C%E8%B7%A1%E6%A2%B3%E7%90%86-12282024.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/282/024/t.jpg?20201014105802"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/4/17/2/C-%E6%9C%97%E6%8B%BF%E5%BA%A6%E6%9B%BE%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%B8%E5%A4%9A%E4%BD%8D%E5%A4%A7%E7%89%8C%E7%90%83%E6%98%9F-%E7%A2%BA%E8%A8%BA%E5%89%8D%E6%B4%BB%E5%8B%95%E8%BB%8C%E8%B7%A1%E6%A2%B3%E7%90%86-12282024.html?cf=hp">C.朗拿度曾密切接觸多位大牌球星 確診前活動軌跡梳理</a>
+</div>
+<div class="text">
+據多家外媒13日報導，葡萄牙足球運動員基斯坦奴·朗拿度（C.朗拿度）的…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:25</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E6%9B%BC%E8%81%AF">曼聯</a><a href="/p/search/news/?k=%E6%9B%BC%E5%9F%8E">曼城</a><a href="/p/search/news/?k=%E7%A5%96%E9%9B%B2%E9%81%94%E6%96%AF">祖雲達斯</a><a href="/p/search/news/?k=%E5%B7%B4%E5%A1%9E%E9%9A%86%E6%8B%BF">巴塞隆拿</a><a href="/p/search/news/?k=%E7%9A%87%E5%AE%B6%E9%A6%AC%E5%BE%B7%E9%87%8C">皇家馬德里</a>
+</div></div>
+</div>
+</div></section>
+</div>
+</div>
+<div class="indexSportsSidebar">
+<section>
+<div class="indexSportsLatestResult">
+<div class="topRow">
+<div class="title">最新足球賽果</div>
+</div>
+<table class="resultTable">
+<tbody>
+<tr>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/315" ><div class="title">巴塞隆拿</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/315" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/20255ef6634675d0dc9b641a12bc464b.png"></a>
+</td>
+<td class="ratio">
+<a href="http://soccer.sina.com.hk/league/main/index/la-liga.html" ><div class="title">西甲</div></a>
+<div class="count"><span class="red">1</span> : <span class="red">1</span></div>
+</td>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/320" ><div class="title">西維爾</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/320" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/26827319bccdf726dc06b3f27ef200af.png"></a>
+</td>
+</tr>
+<tr>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/270" ><div class="title">阿士東維拉</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/270" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/ac2b0ea9c6c74ae526c1f060a61e2e46.png"></a>
+</td>
+<td class="ratio">
+<a href="http://soccer.sina.com.hk/league/main/index/epl.html" ><div class="title">英超</div></a>
+<div class="count"><span class="red">7</span> : <span class="red">2</span></div>
+</td>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/257" ><div class="title">利物浦</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/257" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/1505e07430603fdf63c582a434df03dd.png"></a>
+</td>
+</tr>
+<tr>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/275" ><div class="title">AC米蘭</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/275" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/f820470a9309b42c51e64320b7e3198a.png"></a>
+</td>
+<td class="ratio">
+<a href="http://soccer.sina.com.hk/league/main/index/serie-a.html" ><div class="title">意甲</div></a>
+<div class="count"><span class="red">3</span> : <span class="red">0</span></div>
+</td>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/775" ><div class="title">斯比沙亞</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/775" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/060c07fee57da31660325dd765df1760.png"></a>
+</td>
+</tr>
+<tr>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/295" ><div class="title">拜仁慕尼黑</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/295" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/538a5e06d4aee52e9657a3cbf8d0d769.png"></a>
+</td>
+<td class="ratio">
+<a href="http://soccer.sina.com.hk/league/main/index/bundesliga.html" ><div class="title">德甲</div></a>
+<div class="count"><span class="red">4</span> : <span class="red">3</span></div>
+</td>
+<td class="team">
+<a href="http://soccer.sina.com.hk/p/team/main/index/559" ><div class="title">哈化柏林</div></a>
+<a href="http://soccer.sina.com.hk/p/team/main/index/559" ><img src="//rs.sinahk.net/cap/uploads/soccer/team/flag/569c40065cc07f877a94b559803880fd.png"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div></section>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+<div class="sb sbSportsLeague">
+<div class="top">
+<div class="title">英超聯賽榜</div>
+</div>
+<table class="standingTable">
+<thead>
+<tr class="header" >
+<th>&nbsp;</th>
+<th class="teamHeader" >隊名</th>
+<th>勝</th> 
+<th>和</th>
+<th>負</th>
+<th>積分</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num top3 ">
+<div class="title">1</div>
+</td>
+<td class="team top3 ">
+<a href="http://soccer.sina.com.hk/p/team/main/index/265" >
+ <img class="" src="//rs.sinahk.net/cap/uploads/soccer/team/flag/ae0d545da84ff4aa33f5cdf3eb838eb5.png">&nbsp;愛華頓</a>
+</td>
+<td class="data">
+<div class="title">4</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">12</div>
+</td>
+</tr>
+<tr>
+<td class="num top3 ">
+<div class="title">2</div>
+</td>
+<td class="team top3 ">
+<a href="http://soccer.sina.com.hk/p/team/main/index/270" >
+ <img class="" src="//rs.sinahk.net/cap/uploads/soccer/team/flag/ac2b0ea9c6c74ae526c1f060a61e2e46.png">&nbsp;阿士東維拉</a>
+</td>
+<td class="data">
+<div class="title">3</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">9</div>
+</td>
+</tr>
+<tr>
+<td class="num top3 ">
+<div class="title">3</div>
+</td>
+<td class="team top3 ">
+<a href="http://soccer.sina.com.hk/p/team/main/index/562" >
+ <img class="" src="//rs.sinahk.net/cap/uploads/soccer/team/flag/53b4c92ffc8fd1ae6b457c85db9ca2fa.png">&nbsp;李斯特城</a>
+</td>
+<td class="data">
+<div class="title">3</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">1</div>
+</td>
+<td class="data">
+<div class="title">9</div>
+</td>
+</tr>
+<tr>
+<td class="num ">
+<div class="title">4</div>
+</td>
+<td class="team ">
+<a href="http://soccer.sina.com.hk/p/team/main/index/258" >
+阿仙奴</a>
+</td>
+<td class="data">
+<div class="title">3</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">1</div>
+</td>
+<td class="data">
+<div class="title">9</div>
+</td>
+</tr>
+<tr>
+<td class="num ">
+<div class="title">5</div>
+</td>
+<td class="team ">
+<a href="http://soccer.sina.com.hk/p/team/main/index/257" >
+利物浦</a>
+</td>
+<td class="data">
+<div class="title">3</div>
+</td>
+<td class="data">
+<div class="title">0</div>
+</td>
+<td class="data">
+<div class="title">1</div>
+</td>
+<td class="data">
+<div class="title">9</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="otherStandings">
+<div class="other-standings-race">其他聯賽排行</div>
+<div class="arrow"><img src="//rs3.sinahk.net/1y/layout/s/t1/sb/other-standing-arrow.png"></div>
+<a href="http://soccer.sina.com.hk/league/main/index/bundesliga.html" ><div class="title">德甲</div></a>
+<a href="http://soccer.sina.com.hk/league/main/index/serie-a.html" ><div class="title">意甲</div></a>
+<a href="http://soccer.sina.com.hk/league/main/index/la-liga.html" ><div class="title">西甲</div></a>
+</div>
+</div></section>
+</div>
+</div><div class="row">
+<div id='div-gpt-ad-1469506140078-16' style="margin:0 auto;width:728px;"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1469506140078-16'); });</script>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexCategoryList tech">
+<div class="top">
+<a class="blockTitle" href="/tech/">數碼</a>
+<ul>
+<li><a href="/tech/recommend.html?cf=s-hpc">數碼消息</a></li>
+<li><a href="/tech/mobile.html?cf=s-hpc">手機</a></li>
+<li><a href="/tech/apple.html?cf=s-hpc">Apple</a></li>
+<li><a href="/tech/trendy.html?cf=s-hpc">潮玩</a></li>
+</ul>
+</div>
+<div class="indexListing default tech">
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/5/45/2/%E7%8E%A9%E9%81%8A%E6%88%B2%E5%B0%B1%E5%9C%96%E4%B8%80%E5%80%8B%E7%88%BD%E7%BE%85%E6%8A%80G-Pro-X%E7%84%A1%E7%B7%9A%E8%80%B3%E6%A9%9F%E9%AB%94%E9%A9%97-12282083.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/282/083/t.jpg?20201014110104"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/5/45/2/%E7%8E%A9%E9%81%8A%E6%88%B2%E5%B0%B1%E5%9C%96%E4%B8%80%E5%80%8B%E7%88%BD%E7%BE%85%E6%8A%80G-Pro-X%E7%84%A1%E7%B7%9A%E8%80%B3%E6%A9%9F%E9%AB%94%E9%A9%97-12282083.html?cf=hp">玩遊戲就圖一個爽，羅技G Pro X無線耳機體驗</a>
+</div>
+<div class="text">
+這個國慶十一長假，我既沒出去旅遊，也沒探親訪友，而是選擇宅在家裡。一方面是預料到了國慶期間可能迎來的報復性旅遊擁堵，二是…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:52</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F">生化危機</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/5/45/2/iPhone-12%E4%B8%8D%E9%99%84%E8%B4%88%E8%80%B3%E6%A9%9F%E6%AD%8C%E7%88%BE%E8%81%B2%E5%AD%B8%E5%A4%A7%E8%B7%8C5-%E7%9B%B8%E9%97%9C%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E7%84%A1%E7%B7%9A%E8%80%B3%E6%A9%9F%E9%8A%B7%E9%87%8F%E5%B0%87%E4%B8%8A%E6%BC%B2-12282132.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/cap/3/2020/10/14/a/a81dd43d3104c86664265428b8bec1e1.jpg"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/5/45/2/iPhone-12%E4%B8%8D%E9%99%84%E8%B4%88%E8%80%B3%E6%A9%9F%E6%AD%8C%E7%88%BE%E8%81%B2%E5%AD%B8%E5%A4%A7%E8%B7%8C5-%E7%9B%B8%E9%97%9C%E8%B2%A0%E8%B2%AC%E4%BA%BA-%E7%84%A1%E7%B7%9A%E8%80%B3%E6%A9%9F%E9%8A%B7%E9%87%8F%E5%B0%87%E4%B8%8A%E6%BC%B2-12282132.html?cf=hp">iPhone 12不附贈耳機！歌爾聲學大跌5% 相關負責人：無線耳機銷量將上漲</a>
+</div>
+<div class="text">
+原標題：iPhone 12不附贈耳機！歌爾聲學大跌5% 相關負責人：無線耳機銷量將上漲【TechWeb】10月14日，A…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:51</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E5%85%85%E9%9B%BB%E5%99%A8">充電器</a><a href="/p/search/news/?k=iPhone">iPhone</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/5/45/2/%E5%8D%97%E5%8D%A1%E9%AA%A8%E5%82%B3%E5%B0%8E%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F-%E7%96%BE%E9%A2%A8%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E9%AB%94%E9%A9%97-12282080.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/282/080/t.jpg?20201014110105"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/5/45/2/%E5%8D%97%E5%8D%A1%E9%AA%A8%E5%82%B3%E5%B0%8E%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F-%E7%96%BE%E9%A2%A8%E5%B0%91%E5%B9%B4%E4%BD%BF%E7%94%A8%E9%AB%94%E9%A9%97-12282080.html?cf=hp">南卡骨傳導藍牙耳機：疾風少年使用體驗</a>
+</div>
+<div class="text">
+在數碼圈，有一個品牌今年特別的給力，一直從2019年年底直到2020年10月份，南卡發佈的新品越來越多。經過自己體驗的有…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:48</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E9%A6%AC%E6%8B%89%E6%9D%BE">馬拉松</a><a href="/p/search/news/?k=%E5%85%85%E9%9B%BB%E5%99%A8">充電器</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/5/45/2/%E9%9D%A2%E5%B0%8D%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%86%A0%E5%92%8C%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92%E9%9B%99%E9%87%8D%E6%89%93%E6%93%8A%E4%BD%A0%E6%BA%96%E5%82%99%E4%BA%86%E5%97%8E-12282087.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/282/087/t.jpg?20201014110104"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/5/45/2/%E9%9D%A2%E5%B0%8D%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%86%A0%E5%92%8C%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92%E9%9B%99%E9%87%8D%E6%89%93%E6%93%8A%E4%BD%A0%E6%BA%96%E5%82%99%E4%BA%86%E5%97%8E-12282087.html?cf=hp">面對秋季新冠和流感病毒雙重打擊，你準備了嗎？</a>
+</div>
+<div class="text">
+本文轉載自微信公眾號“CC週刊”。 核心提要： 1、美國MD安德森癌症中心自2009年開始，強製要求全體醫護人員每年秋冬…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:47</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E7%BE%8E%E5%9C%8B">美國</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/5/45/2/%E5%8F%88%E6%9C%89%E4%B8%80%E7%A8%AE%E8%B2%93%E8%AA%9E%E8%A2%AB%E7%A0%B4%E8%AD%AF-%E7%9C%A8%E5%B7%B4%E7%9C%BC-12281923.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/281/923/t.jpg?20201014104701"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/5/45/2/%E5%8F%88%E6%9C%89%E4%B8%80%E7%A8%AE%E8%B2%93%E8%AA%9E%E8%A2%AB%E7%A0%B4%E8%AD%AF-%E7%9C%A8%E5%B7%B4%E7%9C%BC-12281923.html?cf=hp">又有一種貓語被破譯：眨巴眼</a>
+</div>
+<div class="text">
+文章來源：果殼 貓不僅會用不同的叫聲、動作來表達自己的情緒、需求等社交信號，也會用表情來“說話”。 最新的研究指出：緩慢…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">10:35</span>
+<a class="author" href="/p/search/author/?a=新浪網">新浪網</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E5%BE%AE%E5%8D%9A">微博</a><a href="/p/search/news/?k=%E8%8B%B1%E5%9C%8B">英國</a>
+</div></div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+<div class="sb sbMarksix">
+<div class="top">
+<div class="title">六合彩</div>
+</div>
+<div class="date">10月08日 20/011期攪珠結果</div>
+<div class="content">
+<div class="left m-21"></div>
+<div class="left m-28"></div>
+<div class="left m-33"></div>
+<div class="left m-34"></div>
+<div class="left m-40"></div>
+<div class="left m-47"></div>
+<div class="left no7 m-49"></div>
+<div class="left no7_text"><img src="//rs3.sinahk.net/1y/layout/s/t1/marksix/special.gif" alt="特別號碼"></div>
+<div class="clear"></div>
+</div>
+</div><div class="sb sbAlbum tech">
+<div class="top">
+<div class="title">潮流速遞</div>
+</div>
+<div class="silderWrapper">
+<div class="jcarousel">
+<ul>
+ 
+<li>
+<a href="/news/article/20201013/0/7/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html?cf=hp">
+<div class="block">
+<div class="image">
+<img class=" v" src="//rs3.sinahk.net/cap/52/2020/10/13/5/5a5a767eb0d139abc79af863ca8a1c2d.jpg" />
+</div>
+<div class="title">
+連Balenciaga也曾經致敬的家品牌子 IKEA推出自家時尚系列</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201013/0/7/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html?cf=hp?p=2">
+<div class="block">
+<div class="image">
+<img class=" v" src="//rs3.sinahk.net/cap/52/2020/10/13/0/046bed9a9351a60cd45819260db762a4.jpg" />
+</div>
+<div class="title">
+連Balenciaga也曾經致敬的家品牌子 IKEA推出自家時尚系列</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/news/article/20201013/0/7/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html?cf=hp?p=3">
+<div class="block">
+<div class="image">
+<img class=" v" src="//rs3.sinahk.net/cap/52/2020/10/13/d/d6d9cc64f04dbed9f3a69c52fd1fd528.jpg" />
+</div>
+<div class="title">
+連Balenciaga也曾經致敬的家品牌子 IKEA推出自家時尚系列</div>
+</div>
+</a>
+</li>
+ 
+</ul>
+</div>
+<a href="javascript:;" class="jcarousel-control-prev"><i class="fa fa-angle-left"></i></a>
+        <a href="javascript:;" class="jcarousel-control-next"><i class="fa fa-angle-right"></i></a>
+</div>
+<div class="listWrapper">
+<ul>
+<li>
+<div class="block">
+<div class="image">
+<a href="/news/article/20201012/0/7/57/Maison-Magiela%E8%81%AF%E4%B9%98The-North-Face-%E6%89%93%E7%A0%B4%E6%80%A7%E5%88%A5%E6%A1%86%E6%9E%B6-12274481.html?cf=hp">
+<img class=" v" src="//rs3.sinahk.net/cap/52/2020/10/12/4/4e8db1623c1ba1a4fc5f7fa1191164cd.jpg" />
+</a>
+</div>
+<div class="textWrapper">
+<a class="title" href="/news/article/20201012/0/7/57/Maison-Magiela%E8%81%AF%E4%B9%98The-North-Face-%E6%89%93%E7%A0%B4%E6%80%A7%E5%88%A5%E6%A1%86%E6%9E%B6-12274481.html?cf=hp">Maison Magiela聯乘The North Face 打破性別框架</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="image">
+<a href="/news/article/20201012/0/7/57/Louis-Vuitton-x-NBA-%E4%BB%A5%E6%99%82%E5%B0%9A%E5%B0%8D%E9%81%8B%E5%8B%95%E8%87%B4%E6%95%AC-12275129.html?cf=hp">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/275/129/t.jpg?20201012180803" />
+</a>
+</div>
+<div class="textWrapper">
+<a class="title" href="/news/article/20201012/0/7/57/Louis-Vuitton-x-NBA-%E4%BB%A5%E6%99%82%E5%B0%9A%E5%B0%8D%E9%81%8B%E5%8B%95%E8%87%B4%E6%95%AC-12275129.html?cf=hp">Louis Vuitton x NBA  以時尚對運動致敬</a>
+</div>
+</div>
+</li>
+<li>
+<div class="block">
+<div class="image">
+<a href="/news/article/20201012/0/7/57/Justin-Beiber%E8%81%AF%E4%B9%98Crocs-%E5%BB%B6%E7%BA%8CDrew-House%E7%B2%BE%E7%A5%9E-12274480.html?cf=hp">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/274/480/t.jpg?20201012160703" />
+</a>
+</div>
+<div class="textWrapper">
+<a class="title" href="/news/article/20201012/0/7/57/Justin-Beiber%E8%81%AF%E4%B9%98Crocs-%E5%BB%B6%E7%BA%8CDrew-House%E7%B2%BE%E7%A5%9E-12274480.html?cf=hp">Justin Beiber聯乘Crocs  延續Drew House精神</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div></section>
+</div>
+</div><div class="row indexRow">
+<div class="indexContentwrapper">
+<div class="indexContentmain">
+<section>
+<div class="indexCategoryList lifestyle">
+<div class="top">
+<a class="blockTitle" href="/lifestyle/">生活</a>
+<ul>
+<li><a href="/beauty/beauty.html?cf=s-hpc">Beauty</a></li>
+<li><a href="/beauty/fashion.html?cf=s-hpc">Fashion</a></li>
+<li><a href="/beauty/love_sex.html?cf=s-hpc">Love & Sex</a></li>
+<li><a href="/lifestyle/?cf=s-hpc">Lifestyle</a></li>
+<li><a href="/lifestyle/health.html?cf=s-hpc">Health</a></li>
+</ul>
+</div>
+<div class="indexListing default lifestyle">
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201014/6/12/82/CHECKED-STYLE%E6%89%93%E7%A0%B4%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B%E7%9A%84%E4%B8%8A%E7%8F%AD%E9%80%A0%E5%9E%8B6-%E5%80%8B%E7%A7%8B%E5%86%AC%E6%9C%80-hit-%E6%A0%BC%E4%BB%94%E9%80%A0%E5%9E%8B%E4%B8%80%E5%AE%9A%E9%81%A9%E5%90%88%E4%BD%A0-12280727.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/727/t.jpg?20201014024002"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201014/6/12/82/CHECKED-STYLE%E6%89%93%E7%A0%B4%E5%8D%83%E7%AF%87%E4%B8%80%E5%BE%8B%E7%9A%84%E4%B8%8A%E7%8F%AD%E9%80%A0%E5%9E%8B6-%E5%80%8B%E7%A7%8B%E5%86%AC%E6%9C%80-hit-%E6%A0%BC%E4%BB%94%E9%80%A0%E5%9E%8B%E4%B8%80%E5%AE%9A%E9%81%A9%E5%90%88%E4%BD%A0-12280727.html?cf=hp">CHECKED STYLE！打破千篇一律的上班造型，6 個秋冬最 hit 格仔造型一定適合你</a>
+</div>
+<div class="text">
+今個秋冬，很多品牌都用到格仔元素在系列當中。而設計師亦利用不同剪裁、設計風格、顏色，來融入格仔元素。
+你可利用不同類型的…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月14日</span>
+<span class="time">02:12</span>
+<a class="author" href="/p/search/author/?a=jessicahk">jessicahk</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=Dior">Dior</a><a href="/p/search/news/?k=AV">AV</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/83/%E7%A7%8B%E5%A4%A9%E4%BE%86%E4%BA%86%E5%88%A5%E8%AE%93%E8%82%8C%E8%86%9A%E7%B7%8A%E7%B9%83%E7%B9%83%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C%E6%8E%A8%E4%BB%8B-%E6%95%8F%E6%84%9F%E8%82%8C-%E6%80%A5%E6%95%91-%E8%86%A0%E5%8E%9F%E8%9B%8B%E7%99%BD-12280191.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/280/191/t.jpg?20201013220802"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/83/%E7%A7%8B%E5%A4%A9%E4%BE%86%E4%BA%86%E5%88%A5%E8%AE%93%E8%82%8C%E8%86%9A%E7%B7%8A%E7%B9%83%E7%B9%83%E4%BF%9D%E6%BF%95%E9%9D%A2%E8%86%9C%E6%8E%A8%E4%BB%8B-%E6%95%8F%E6%84%9F%E8%82%8C-%E6%80%A5%E6%95%91-%E8%86%A0%E5%8E%9F%E8%9B%8B%E7%99%BD-12280191.html?cf=hp">秋天來了別讓肌膚緊繃繃！保濕面膜推介：敏感肌/ 急救/ 膠原蛋白</a>
+</div>
+<div class="text">
+近期肌膚感受到天氣的轉變，臉頰開始覺得有點乾燥，緊繃繃的狀態。這時除了要著手準備轉季的護膚品，不要忘記敷面膜補補濕，…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">21:38</span>
+<a class="author" href="/p/search/author/?a=marieclaire">marieclaire</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E8%AD%B7%E8%86%9A">護膚</a><a href="/p/search/news/?k=%E8%AD%B7%E8%86%9A%E5%93%81">護膚品</a><a href="/p/search/news/?k=%E4%BF%9D%E6%BF%95">保濕</a><a href="/p/search/news/?k=%E7%B7%8A%E7%B7%BB">緊緻</a><a href="/p/search/news/?k=%E7%B2%BE%E8%8F%AF">精華</a>
+</div></div>
+</div>
+<div class="block ads">
+<ins class="adsbygoogle" style="display:block;min-width:670px;max-width:800px;width:100%;height:105px" data-ad-client="ca-pub-0963075123766894" data-ad-slot="8645863281"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/83/%E6%83%85%E4%BE%B6%E5%A4%AB%E5%A6%BB%E5%BF%85%E8%AE%80%E9%85%92%E5%BA%97staycation%E5%81%9A%E6%84%9Bcheck-in%E5%89%8D4%E7%A8%AE%E6%BA%96%E5%82%99%E8%AE%93%E4%BD%A0%E5%A2%9E%E6%80%A7%E7%A6%8F-12279965.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/965/t.jpg?20201013203902"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/83/%E6%83%85%E4%BE%B6%E5%A4%AB%E5%A6%BB%E5%BF%85%E8%AE%80%E9%85%92%E5%BA%97staycation%E5%81%9A%E6%84%9Bcheck-in%E5%89%8D4%E7%A8%AE%E6%BA%96%E5%82%99%E8%AE%93%E4%BD%A0%E5%A2%9E%E6%80%A7%E7%A6%8F-12279965.html?cf=hp">情侶夫妻必讀！酒店staycation做愛check-in前4種準備讓你增性福！</a>
+</div>
+<div class="text">
+酒店Staycation成為疫情下新潮流，不少情侶和夫妻都會訂房過二人世界。在親密的氣氛下，如果早有準備的話，將會令…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">20:18</span>
+<a class="author" href="/p/search/author/?a=marieclaire">marieclaire</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/89/%E9%9A%B1%E6%96%BC%E5%A4%A7%E5%BB%88%E4%B8%AD%E7%9A%84%E5%92%8C%E9%A2%A8%E9%85%92%E5%90%A7%E5%B0%8F%E5%B1%8B-12279877.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/877/t.jpg?20201013200802"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/89/%E9%9A%B1%E6%96%BC%E5%A4%A7%E5%BB%88%E4%B8%AD%E7%9A%84%E5%92%8C%E9%A2%A8%E9%85%92%E5%90%A7%E5%B0%8F%E5%B1%8B-12279877.html?cf=hp">隱於大廈中的和風酒吧小屋</a>
+</div>
+<div class="text">
+對於許多人、尤其是日本控來說，相信近月總想找個機會在港感受一下異國風情。銅鑼灣的Lounge Hakuba，是一間很有主…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">20:00</span>
+<a class="author" href="/p/search/author/?a=Capital">Capital</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E6%AB%BB%E8%8A%B1">櫻花</a><a href="/p/search/news/?k=%E6%97%A5%E6%9C%AC">日本</a><a href="/p/search/news/?k=%E6%A8%93">樓</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/960/t.jpg?20201013203702"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/57/%E9%80%A3Balenciaga%E4%B9%9F%E6%9B%BE%E7%B6%93%E8%87%B4%E6%95%AC%E7%9A%84%E5%AE%B6%E5%93%81%E7%89%8C%E5%AD%90-IKEA%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E6%99%82%E5%B0%9A%E7%B3%BB%E5%88%97-12279960.html?cf=hp">連Balenciaga也曾經致敬的家品牌子 IKEA推出自家時尚系列</a>
+</div>
+<div class="text">
+IKEA在香港人心目中不只是一間大型連鎖家品傢俬店和餐廳，還是一家人、學生或情侶逛街的好去處，不知不覺它已落戶香港45個…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">19:27</span>
+<a class="author" href="/p/search/author/?a=mensuno">mensuno</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E6%97%A5%E6%9C%AC">日本</a><a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/83/Van-Cleef-Arpels%E5%90%91Place-Vendome%E8%87%B4%E6%95%AC%E7%9A%84%E5%85%A8%E6%96%B0%E9%AB%98%E7%B4%9A%E7%8F%A0%E5%AF%B6%E7%B3%BB%E5%88%97-12279179.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/179/t.jpg?20201013170801"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/83/Van-Cleef-Arpels%E5%90%91Place-Vendome%E8%87%B4%E6%95%AC%E7%9A%84%E5%85%A8%E6%96%B0%E9%AB%98%E7%B4%9A%E7%8F%A0%E5%AF%B6%E7%B3%BB%E5%88%97-12279179.html?cf=hp">Van Cleef &#038; Arpels向Place Vendome致敬的全新高級珠寶系列</a>
+</div>
+<div class="text">
+Pay Tribute to Place Vendome
+Van Cleef & Arpels向Place Vendo…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">16:47</span>
+<a class="author" href="/p/search/author/?a=marieclaire">marieclaire</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=%E5%A9%9A%E7%A6%AE">婚禮</a><a href="/p/search/news/?k=%E7%B5%90%E5%A9%9A">結婚</a>
+</div></div>
+</div>
+<div class="block oneImage">
+<div class="imageWrapper"><a href="/news/article/20201013/6/12/68/%E6%B2%99%E7%94%B0%E8%8C%B6%E9%A3%B2%E5%BA%97-%E5%8F%B0%E7%81%A3%E9%81%8E%E6%B1%9F%E9%BE%8D%E8%8C%B6%E9%A3%B2%E5%BA%97-1011SIPTEA-x-Snoopy-%E8%81%AF%E4%B9%98%E9%99%90%E5%AE%9A%E7%B2%BE%E5%93%81%2B4%E5%A4%A7%E7%89%B9%E8%89%B2%E6%89%93%E5%8D%A1%E4%BD%8D-12279177.html?cf=hp">
+<div class="image">
+<img class="" src="//rs3.sinahk.net/1y/cap/crop/0/012/279/177/t.jpg?20201013170003"/>
+</div>
+</a></div><div class="textWrapper">
+<div class="title">
+<a href="/news/article/20201013/6/12/68/%E6%B2%99%E7%94%B0%E8%8C%B6%E9%A3%B2%E5%BA%97-%E5%8F%B0%E7%81%A3%E9%81%8E%E6%B1%9F%E9%BE%8D%E8%8C%B6%E9%A3%B2%E5%BA%97-1011SIPTEA-x-Snoopy-%E8%81%AF%E4%B9%98%E9%99%90%E5%AE%9A%E7%B2%BE%E5%93%81%2B4%E5%A4%A7%E7%89%B9%E8%89%B2%E6%89%93%E5%8D%A1%E4%BD%8D-12279177.html?cf=hp">沙田茶飲店:【台灣過江龍茶飲店「1011SIPTEA x Snoopy」！聯乘限定精品+4大特色打卡位！】</a>
+</div>
+<div class="text">
+沙田又有新開台灣過江龍茶飲店，由鄧麗欣Stephy創立的「一口吖吖1011&bull;Sip Tea」茶飲店聯乘NAS…</div>
+</div>
+<div class="bottom clearfix">
+<div class="info">
+<span class="date">10月13日</span>
+<span class="time">16:42</span>
+<a class="author" href="/p/search/author/?a=香港人遊香港">香港人遊香港</a>
+</div>
+<div class="keyword">
+
+<a href="/p/search/news/?k=NASA">NASA</a><a href="/p/search/news/?k=%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4">新城市廣場</a><a href="/p/search/news/?k=%E5%8F%B0%E7%81%A3">台灣</a><a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a>
+</div></div>
+</div>
+</div></div>
+</section>
+</div>
+</div>
+<div class="indexSidebar">
+<section>
+<div class="space"></div>
+<div class="sbAds">
+<div id='div-gpt-ad-1467862613196-0' class="ad250"></div><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467862613196-0'); });</script>
+</div></section>
+</div>
+</div></section>
+</div>
+</div><footer>
+<div class="row">
+
+<div class="footer-keyword">
+<ul class="clearfix">
+<li>熱門關鍵字：</li>
+<li><a href="/p/search/news/?k=%E9%A6%99%E6%B8%AF">香港</a></li>
+<li><a href="/p/search/news/?k=%E5%BE%AE%E5%8D%9A">微博</a></li>
+<li><a href="/p/search/news/?k=%E8%82%BA%E7%82%8E">肺炎</a></li>
+<li><a href="/p/search/news/?k=%E7%94%9F%E6%97%A5">生日</a></li>
+<li><a href="/p/search/news/?k=%E7%86%B1%E5%B8%B6%E9%A2%A8%E6%9A%B4">熱帶風暴</a></li>
+<li><a href="/p/search/news/?k=%E9%9F%93%E5%9C%8B">韓國</a></li>
+<li><a href="/p/search/news/?k=%E9%9B%BB%E5%BD%B1">電影</a></li>
+<li><a href="/p/search/news/?k=%E5%8D%81%E5%B9%B4">十年</a></li>
+</ul>
+</div>
+
+<div class="footer-bottom">
+<ul class="clearfix">
+
+<li>
+<ul>
+<li><a class="main" href="/news/?cf=s-footer">新聞</a></li>
+<li><a href="/news/realtime.html?cf=s-footer">即時</a></li>
+<li><a href="/news/hk.html?cf=s-footer">港聞</a></li>
+<li><a href="/news/china.html?cf=s-footer">兩岸</a></li>
+<li><a href="/news/international.html?cf=s-footer">國際</a></li>
+<li><a href="/news/funny.html?cf=s-footer">趣聞</a></li>
+<li><a href="/news/album.html?cf=s-footer">圖集</a></li>
+</ul>
+</li>
+
+<li>
+<ul>
+<li><a class="main" href="/finance/?cf=s-footer">財經</a></li>
+<li><a href="/finance/realtime.html?cf=s-footer">即時</a></li>
+<li><a href="/finance/today_focus.html?cf=s-footer">新聞</a></li>
+<li><a href="/finance/analyst.html?cf=s-footer">股評</a></li>
+<li><a href="/finance/us_realtime.html?cf=s-footer">美股</a></li>
+<li><a href="http://sina.com.hk/finance/forex_realtime.html?cf=s-footer">外匯</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="/entertainment/">娛樂</a></li>
+<li><a href="/entertainment/news.html?cf=s-footer">新聞</a></li>
+<li><a href="/entertainment/kpop.html?cf=s-footer">韓星</a></li>
+<li><a href="/entertainment/interview.html?cf=s-footer">專訪</a></li>
+<li><a href="/entertainment/movie/current.html?cf=s-footer">電影</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="/sports/">體壇</a></li>
+<li><a target="_blank" href="http://soccer.sina.com.hk/?cf=s-footer">足球</a></li>
+<li><a href="/sports/basketball.html?cf=s-footer">籃球</a></li>
+<li><a href="/sports/f1.html?cf=s-footer">賽車</a></li>
+<li><a href="/sports/badminton.html?cf=s-footer">羽毛球</a></li>
+<li><a href="/sports/volleyball.html?cf=s-footer">排球</a></li>
+<li><a href="/sports/tennis.html?cf=s-footer">網球</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="/tech/">數碼</a></li>
+<li><a href="/tech/apple.html?cf=s-footer">Apple</a></li>
+<li><a href="/tech/mobile.html?cf=s-footer">手機</a></li>
+<li><a href="/tech/photography.html?cf=s-footer">攝影</a></li>
+<li><a href="/tech/products.html?cf=s-footer">Gadgets</a></li>
+<li><a href="/tech/trendy.html?cf=s-footer">潮玩</a></li>
+<li><a href="/tech/game.html?cf=s-footer">Game</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="/beauty/">Beauty</a></li>
+<li><a href="/beauty/fashion.html?cf=s-footer">Fashion</a></li>
+<li><a href="/beauty/beauty.html?cf=s-footer">Beauty tips</a></li>
+<li><a href="/beauty/love_sex.html?cf=s-footer">Love & Sex</a></li>
+<li><a href="/beauty/fitness.html?cf=s-footer">Fitness</a></li>
+<li><a href="/beauty/astrology.html?cf=s-footer">Astrology</a></li>
+<li><a href="/beauty/column.html?cf=s-footer">Column</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="/lifestyle/">Lifestyle</a></li>
+<li><a href="/lifestyle/food.html?cf=s-footer">飲食</a></li>
+<li><a href="/lifestyle/trend.html?cf=s-footer">潮流</a></li>
+<li><a href="/lifestyle/travel.html?cf=s-footer">旅遊</a></li>
+<li><a href="/lifestyle/auto.html?cf=s-footer">汽車</a></li>
+<li><a href="/lifestyle/health.html?cf=s-footer">健康</a></li>
+<li><a href="/lifestyle/parent.html?cf=s-footer">親子</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="#">更多</a></li>
+<li><a target="_blank" href="http://hk.weibo.com">微博</a></li>
+<li><a target="_blank" href="http://dictionary.sina.com.hk/">字典</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li><a class="main" href="#">關於我們</a></li>
+<li><a target="_blank" href="http://corp.sina.com.cn/chn/sina_index.html">新浪介紹</a></li>
+<li><a target="_blank" href="http://corp.sina.com.cn/eng/sina_index_eng.htm">About SINA</a></li>
+<li><a target="_blank" href="http://sina.com.hk/ads/">廣告查詢</a></li>
+<li><a target="_blank" href="http://sina.com.hk/cs/">意見信箱</a></li>
+<li><a target="_blank" href="http://sina.com.hk/cs/privacy.html">隱私權保護</a></li>
+</ul>
+</li>
+<li>
+<ul>
+<li></li>
+<li><a target="_blank" href="http://m.sina.com.hk">手機版</a></li>
+<li><a target="_blank" href="https://www.facebook.com/hongkongsina/">Facebook專頁</a></li>
+<li><a target="_blank" href="http://weibo.com/sinamanhk">官方微博</a></li>
+</ul>
+</li>
+<ul>
+</div>
+<div class="footer-copyright"><span>承印人︰新浪香港有限公司</span><span>承印人地址︰觀塘巧明街111-113號富利廣場20樓1-3室</span><span>Copyright &copy; 2020 SINA.com All Rights Reserved 版權所有 不得轉載</span></div>
+<a class="backtotop" href="#TOP"><i></i></a>
+</div>
+</footer>
+
+<!-- 00 All-in-one - HP fullscreen -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.sinahk.net/delivery/ajs.php':'http://ad.sinahk.net/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.sinahk.net/delivery/ck.php?n=a76081ec&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.sinahk.net/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a76081ec' border='0' alt='' /></a></noscript>
+<!-- 00 All-in-one - HP Left Floating -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.sinahk.net/delivery/ajs.php':'http://ad.sinahk.net/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=44");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.sinahk.net/delivery/ck.php?n=a76a01b4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.sinahk.net/delivery/avw.php?zoneid=44&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a76a01b4' border='0' alt='' /></a></noscript>
+<!-- 00 All-in-one - HP Right Floating -->
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ad.sinahk.net/delivery/ajs.php':'http://ad.sinahk.net/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=45");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ad.sinahk.net/delivery/ck.php?n=adff8e0e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.sinahk.net/delivery/avw.php?zoneid=45&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adff8e0e' border='0' alt='' /></a></noscript>
+</div>
+<!-- Sina Report -->
+<script type="text/javascript" src="//report.sina.com.tw/js/sina_analytics.js?v=2017072501" async="async"></script>
+<!-- START Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40629049-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  // Aggregate
+  gtag('config', 'UA-40629049-1');
+  // Individual Channel
+  gtag('event', 'page_view', { 'send_to': 'UA-41906773-1' });
+  
+  gtag('event', 'page_view', { 'send_to': 'UA-41906773-3' });
+  
+  
+</script>
+<!-- END Google Analytics --></body></html>
